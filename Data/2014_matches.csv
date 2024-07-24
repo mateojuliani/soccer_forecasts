@@ -1,0 +1,880 @@
+date,team1,score1,location,change1,score1_points,change2,score2_points
+January 1 2014,Jordan> Kuwait>,2 1,West Asian Championship in Qatar,+20 −20,1592 1553,+8 −4,59 70
+January 4 2014,Jordan> Bahrain>,1 0,West Asian Championship in Qatar,+13 −13,1605 1454,+2 −4,57 99
+January 4 2014,Qatar> Kuwait>,3 0,West Asian Championship in Qatar,+30 −30,1530 1523,+12 −6,75 76
+January 7 2014,Bahrain> Kuwait>,0 0,West Asian Championship in Qatar,+4 −4,1458 1519,+2 −1,97 77
+January 7 2014,Qatar> Jordan>,2 0,West Asian Championship in Qatar,+28 −28,1558 1577,+5 −8,70 65
+January 15 2014,Norway> Moldova>,2 1,Friendly in the United Arab Emirates,+5 −5,1631 1440,+1 −2,53 103
+January 17 2014,Sweden> Moldova>,2 1,Friendly in the United Arab Emirates,+2 −2,1829 1438,0 −1,19 104
+January 18 2014,Poland> Norway>,3 0,Friendly in the United Arab Emirates,+18 −18,1641 1613,+3 −2,52 55
+January 20 2014,Poland> Moldova>,1 0,Friendly in the United Arab Emirates,+5 −5,1646 1433,+1 0,51 104
+January 21 2014,Sweden> Iceland>,2 0,Friendly in the United Arab Emirates,+5 −5,1834 1537,0 0,19 74
+January 22 2014,Chile> Costa Rica>,4 0,Friendly in Chile,+6 −6,1920 1729,+1 −2,9 31
+January 24 2014,Oman> Finland>,0 0,Friendly in Oman,0 0,1566 1672,0 0,68 46
+January 25 2014,South Korea> Costa Rica>,1 0,Friendly in the United States,+11 −11,1696 1718,+1 −2,42 33
+January 29 2014,Mexico> South Korea>,4 0,Friendly in the United States,+13 −13,1810 1683,+1 −2,21 44
+January 31 2014,Oman> Jordan>,0 0,Asian Cup qualifier in Oman,−5 +5,1561 1582,0 +2,68 63
+February 1 2014,United States> South Korea>,2 0,Friendly in the United States,+5 −5,1867 1678,0 −1,13 45
+February 4 2014,Singapore> Jordan>,1 3,Asian Cup qualifier in Singapore,−13 +13,1250 1595,−3 +5,145 58
+February 7 2014,St Vincent & Grenadines> Dominica>,3 2,Friendly in Saint Vincent and the Grenadines,+4 −4,1145 1011,0 −1,171 188
+February 9 2014,St Vincent & Grenadines> Dominica>,0 0,Friendly in Saint Vincent and the Grenadines,−6 +6,1139 1017,0 +1,171 187
+February 19 2014,Lebanon> Pakistan>,3 1,Friendly in Lebanon,+1 −1,1369 943,0 0,119 194
+February 21 2014,Iraq> North Korea>,2 0,Friendly in the United Arab Emirates,+18 −18,1534 1563,+5 −3,75 67
+March 1 2014,Gibraltar> Faroe Islands>,1 4,Friendly in Gibraltar,−21 +21,1131 1204,−4 +5,172 155
+March 1 2014,Malaysia> Philippines>,0 0,Friendly in Malaysia,−2 +2,1166 1195,−1 −1,166 159
+March 2 2014,Barbados> Jamaica>,0 2,Friendly in Barbados,−5 +5,1127 1523,−2 +2,173 77
+March 3 2014,Iran> Kuwait>,3 2,Asian Cup qualifier in Iran,+6 −6,1736 1513,0 −4,29 83
+March 5 2014,Albania> Malta>,2 0,Friendly in Albania,+3 −3,1520 1249,−1 0,80 144
+March 5 2014,Algeria> Slovenia>,2 0,Friendly in Algeria,+14 −14,1600 1648,+3 −1,59 49
+March 5 2014,Andorra> Moldova>,0 3,Friendly in Andorra,−4 +4,989 1437,0 0,192 104
+March 5 2014,Austria> Uruguay>,1 1,Friendly in Austria,+4 −4,1667 1915,0 0,47 10
+March 5 2014,Azerbaijan> Philippines>,1 0,Friendly in the United Arab Emirates,+4 −4,1443 1191,+1 0,102 159
+March 5 2014,Belgium> Ivory Coast>,2 2,Friendly in Belgium,−4 +4,1831 1783,0 +1,18 23
+March 5 2014,Botswana> South Sudan>,3 0,Friendly in Botswana,+4 −4,1307 1057,+2 0,130 182
+March 5 2014,Bulgaria> Belarus>,2 1,Friendly in Bulgaria,+6 −6,1648 1584,+3 −1,49 62
+March 5 2014,Burkina Faso> Comoros>,1 1,Friendly in France,−10 +10,1540 881,−2 +1,74 202
+March 5 2014,Burundi> Rwanda>,1 1,Friendly in Burundi,−3 +3,1303 1304,−1 +3,132 131
+March 5 2014,Colombia> Tunisia>,1 1,Friendly in Spain,−8 +8,1925 1514,−2 +3,8 82
+March 5 2014,Costa Rica> Paraguay>,2 1,Friendly in Costa Rica,+7 −7,1725 1694,+3 −3,30 42
+March 5 2014,Cyprus> Northern Ireland>,0 0,Friendly in Cyprus,−2 +2,1387 1413,−2 0,113 109
+March 5 2014,Czechia> Norway>,2 2,Friendly in Czechia,−6 +6,1755 1619,−1 0,27 55
+March 5 2014,Ecuador> Australia>,4 3,Friendly in England,+7 −7,1843 1723,+1 −3,16 33
+March 5 2014,Egypt> Bosnia and Herzegovina>,2 0,Friendly in Austria,+19 −19,1715 1764,+7 −3,35 26
+March 5 2014,England> Denmark>,1 0,Friendly in England,+3 −3,1936 1744,0 0,6 28
+March 5 2014,France> Netherlands>,2 0,Friendly in France,+16 −16,1897 1988,0 0,12 5
+March 5 2014,Georgia> Liechtenstein>,2 0,Friendly in Georgia,+2 −2,1499 1178,0 −1,88 162
+March 5 2014,Germany> Chile>,1 0,Friendly in Germany,+4 −4,2090 1916,0 0,3 9
+March 5 2014,Gibraltar> Estonia>,0 2,Friendly in Gibraltar,−6 +6,1125 1475,−2 0,173 94
+March 5 2014,Greece> South Korea>,0 2,Friendly in Greece,−25 +25,1816 1703,−4 +7,20 38
+March 5 2014,Honduras> Venezuela>,2 1,Friendly in Honduras,+8 −8,1693 1697,−1 −4,44 41
+March 5 2014,Hungary> Finland>,1 2,Friendly in Hungary,−13 +13,1668 1685,−2 +1,46 45
+March 5 2014,India> Bangladesh>,2 2,Friendly in India,−6 +6,1075 945,−2 +1,180 194
+March 5 2014,Iran> Guinea>,1 2,Friendly in Iran,−17 +17,1719 1531,−5 +6,34 75
+March 5 2014,Iraq> China>,3 1,Asian Cup qualifier in the United Arab Emirates,+35 −35,1569 1556,+9 −10,66 70
+March 5 2014,Ireland> Serbia>,1 2,Friendly in Ireland,−12 +12,1701 1766,−5 +2,39 25
+March 5 2014,Israel> Slovakia>,1 3,Friendly in Israel,−21 +21,1619 1627,−2 +3,55 53
+March 5 2014,Japan> New Zealand>,4 2,Friendly in Japan,+4 −4,1768 1545,+1 0,24 73
+March 5 2014,Jordan> Syria>,2 1,Asian Cup qualifier in Jordan,+8 −8,1603 1459,0 −1,58 96
+March 5 2014,Kazakhstan> Lithuania>,1 1,Friendly in Turkey,+3 −3,1361 1457,0 −1,123 97
+March 5 2014,Kosovo> Haiti>,0 0,Friendly in Kosovo,−1 +1,1379 1432,−2 0,119 105
+March 5 2014,Luxembourg> Cape Verde>,0 0,Friendly in Luxembourg,+5 −5,1213 1505,0 −3,154 87
+March 5 2014,Macedonia> Latvia>,2 1,Friendly in Macedonia,+6 −6,1520 1449,+1 −1,80 100
+March 5 2014,Malawi> Zimbabwe>,1 4,Friendly in Malawi,−21 +21,1315 1381,−1 +4,128 118
+March 5 2014,Malaysia> Yemen>,2 1,Asian Cup qualifier in the United Arab Emirates,+20 −20,1186 1148,+5 −3,161 168
+March 5 2014,Mali> Senegal>,1 1,Friendly in France,0 0,1559 1571,0 +1,69 65
+March 5 2014,Mauritania> Niger>,1 1,Friendly in Mauritania,0 0,1190 1291,0 0,160 137
+March 5 2014,Mexico> Nigeria>,0 0,Friendly in the United States,−2 +2,1808 1731,−1 +2,22 29
+March 5 2014,Montenegro> Ghana>,1 0,Friendly in Montenegro,+10 −10,1611 1694,0 −4,57 42
+March 5 2014,Morocco> Gabon>,1 1,Friendly in Morocco,−4 +4,1527 1506,−1 +2,77 85
+March 5 2014,Mozambique> Angola>,1 1,Friendly in Mozambique,−1 +1,1369 1446,−2 0,120 101
+March 5 2014,Namibia> Tanzania>,1 1,Friendly in Namibia,0 0,1292 1384,0 −1,135 114
+March 5 2014,Oman> Singapore>,3 1,Asian Cup qualifier in Oman,+5 −5,1566 1245,+1 0,67 145
+March 5 2014,Poland> Scotland>,0 1,Friendly in Poland,−11 +11,1635 1710,−1 +4,52 37
+March 5 2014,Portugal> Cameroon>,5 1,Friendly in Portugal,+3 −3,1934 1591,+1 −2,7 61
+March 5 2014,Qatar> Bahrain>,0 0,Asian Cup qualifier in Qatar,−10 +10,1548 1468,−2 +2,72 95
+March 5 2014,Romania> Argentina>,0 0,Friendly in Romania,+5 −5,1724 2015,+1 0,31 4
+March 5 2014,Russia> Armenia>,2 0,Friendly in Russia,+3 −3,1848 1577,+1 +1,14 63
+March 5 2014,Saudi Arabia> Indonesia>,1 0,Asian Cup qualifier in Saudi Arabia,+4 −4,1490 1223,0 −2,90 152
+March 5 2014,South Africa> Brazil>,0 5,Friendly in South Africa,−3 +3,1573 2135,+1 0,64 1
+March 5 2014,Spain> Italy>,1 0,Friendly in Spain,+3 −3,2107 1904,0 0,2 11
+March 5 2014,Saint Lucia> Jamaica>,0 5,Friendly in Saint Lucia,−4 +4,1047 1527,−1 0,185 77
+March 5 2014,Switzerland> Croatia>,2 2,Friendly in Switzerland,−4 +4,1848 1810,0 +1,14 21
+March 5 2014,Thailand> Lebanon>,2 5,Asian Cup qualifier in Thailand,−42 +42,1295 1411,−8 +9,134 110
+March 5 2014,Turkey> Sweden>,2 1,Friendly in Turkey,+11 −11,1724 1823,+3 0,31 19
+March 5 2014,Ukraine> United States>,2 0,Friendly in Cyprus,+17 −17,1840 1850,+3 0,17 13
+March 5 2014,Uzbekistan> United Arab Emirates>,1 1,Asian Cup qualifier in Uzbekistan,−6 +6,1643 1654,−2 +2,51 48
+March 5 2014,Vietnam> Hong Kong>,3 1,Asian Cup qualifier in Vietnam,+19 −19,1235 1158,+4 −4,148 166
+March 5 2014,Wales> Iceland>,3 1,Friendly in Wales,+9 −9,1595 1528,+2 −2,60 76
+March 5 2014,Zambia> Uganda>,2 1,Friendly in Zambia,+8 −8,1492 1507,+2 −4,89 84
+March 7 2014,Lesotho> Swaziland>,0 1,Friendly in Lesotho,−16 +16,1222 1097,−5 +1,152 177
+March 9 2014,Lesotho> Swaziland>,0 0,Friendly in Lesotho,−6 +6,1216 1103,0 +1,152 176
+March 19 2014,Saint Lucia> Martinique>,0 0,Friendly in Saint Lucia,+7 −7,1054 1411,+1 −2,184 109
+March 25 2014,Yemen> Nepal>,2 0,Friendly in Qatar,+6 −6,1154 900,+1 −1,167 201
+March 26 2014,Indonesia> Andorra>,1 0,Friendly in Spain,+4 −4,1227 985,+1 0,150 192
+March 27 2014,Aruba> Guam>,2 2,Friendly in Aruba,−7 +7,931 744,−1 0,197 213
+March 29 2014,Cuba> Indonesia>,1 0,Friendly in Spain,+5 −5,1421 1222,0 −1,107 151
+March 30 2014,Aruba> Guam>,2 0,Friendly in Aruba,+5 −5,936 739,+1 0,196 213
+April 2 2014,United States> Mexico>,2 2,Friendly in the United States,−4 +4,1846 1812,−2 +1,15 21
+April 11 2014,Philippines> Nepal>,3 0,Friendly in Qatar,+6 −6,1197 894,+1 0,158 201
+April 12 2014,Mauritania> Mauritius>,1 0,African Nations Cup qualifier in Mauritania,+8 −8,1198 1048,+2 −2,158 185
+April 13 2014,Afghanistan> Kyrgyzstan>,0 0,Friendly in the United Arab Emirates,+2 −2,1053 1129,0 0,184 171
+April 15 2014,Chad> Yemen>,0 0,Friendly in Qatar,−2 +2,1231 1156,0 0,149 167
+April 17 2014,Guadeloupe> French Guiana>,3 2,Friendly tournament in Guadeloupe,+6 −6,1390 1236,+2 0,112 146
+April 19 2014,Guadeloupe> Martinique>,0 1,Friendly tournament in Guadeloupe,−18 +18,1372 1429,−7 +3,119 106
+April 20 2014,Mauritius> Mauritania>,0 2,African Nations Cup qualifier in Mauritius,−26 +26,1022 1224,−1 +8,186 150
+April 26 2014,Tanzania> Burundi>,0 3,Friendly in Tanzania,−26 +26,1358 1329,−9 +5,123 127
+April 27 2014,Philippines> Malaysia>,0 0,Friendly in the Philippines,−3 +3,1194 1189,−1 0,160 161
+April 30 2014,Dominica> Saint Lucia>,0 2,Windward Islands Championship in Dominica,−27 +27,990 1081,−4 +4,191 179
+April 30 2014,Grenada> St Vincent & Grenadines>,0 0,Windward Islands Championship in Dominica,−2 +2,1194 1141,0 0,159 170
+May 2 2014,Dominica> St Vincent & Grenadines>,2 3,Windward Islands Championship in Dominica,−13 +13,977 1154,−1 +2,192 168
+May 2 2014,Saint Lucia> Grenada>,1 0,Windward Islands Championship in Dominica,+20 −20,1101 1174,+2 −4,177 163
+May 4 2014,Dominica> Grenada>,3 5,Windward Islands Championship in Dominica,−16 +16,961 1190,−1 +3,193 160
+May 4 2014,Saint Lucia> St Vincent & Grenadines>,0 0,Windward Islands Championship in Dominica,+2 −2,1103 1152,+1 0,176 168
+May 4 2014,Tajikistan> Afghanistan>,1 0,Friendly in Tajikistan,+3 −3,1262 1050,+1 0,142 184
+May 4 2014,Tanzania> Malawi>,0 0,Friendly in Tanzania,−4 +4,1354 1319,−1 +1,124 128
+May 10 2014,Monaco> Vatican>,2 0,Friendly in Italy,+7 −7,909 686,0 0,200 218
+May 11 2014,Botswana> Swaziland>,1 4,Friendly in Botswana,−30 +30,1277 1133,−8 +5,139 171
+May 12 2014,Afghanistan> Kyrgyzstan>,1 0,Friendly in Kuwait,+12 −12,1062 1117,+1 −3,183 175
+May 13 2014,Germany> Poland>,0 0,Friendly in Germany,−9 +9,2081 1644,0 +1,3 51
+May 13 2014,Maldives> Laos>,7 1,Friendly in the Maldives,+6 −6,1087 850,+1 −1,179 206
+May 14 2014,Kuwait> Afghanistan>,3 2,Friendly in Kuwait,+1 −1,1514 1061,+1 0,82 183
+May 16 2014,Kuwait> Kyrgyzstan>,2 2,Friendly in Kuwait,−9 +9,1505 1126,−4 +2,86 173
+May 17 2014,Malawi> Chad>,2 0,African Nations Cup qualifier in Malawi,+15 −15,1334 1216,+2 −3,126 152
+May 17 2014,Mauritania> Equatorial Guinea>,1 0,African Nations Cup qualifier in Mauritania,+19 −19,1243 1283,+4 −4,146 136
+May 17 2014,Namibia> Congo>,1 0,African Nations Cup qualifier in Namibia,+20 −20,1312 1376,+4 −6,130 117
+May 17 2014,Netherlands> Ecuador>,1 1,Friendly in the Netherlands,−6 +6,1982 1849,0 +3,5 13
+May 17 2014,São Tomé and Príncipe> Benin>,0 2,African Nations Cup qualifier in São Tomé and Príncipe,−15 +15,1085 1403,−1 +1,179 111
+May 18 2014,Belarus> Iran>,0 0,Friendly in Austria,+4 −4,1588 1715,0 0,62 34
+May 18 2014,Burundi> Botswana>,0 0,African Nations Cup qualifier in Burundi,−8 +8,1321 1285,−1 +3,129 136
+May 18 2014,Central African Republic> Guinea-Bissau>,0 0,African Nations Cup qualifier in Congo,−3 +3,1267 1217,0 +2,140 152
+May 18 2014,Kenya> Comoros>,1 0,African Nations Cup qualifier in Kenya,+1 −1,1443 880,+1 0,102 202
+May 18 2014,Liberia> Lesotho>,1 0,African Nations Cup qualifier in Liberia,+10 −10,1328 1206,+1 −3,128 155
+May 18 2014,Libya> Rwanda>,0 0,African Nations Cup qualifier in Tunisia,−12 +12,1541 1316,−2 +2,73 130
+May 18 2014,Madagascar> Uganda>,2 1,African Nations Cup qualifier in Madagascar,+32 −32,1196 1475,+6 −10,159 93
+May 18 2014,Mozambique> South Sudan>,5 0,African Nations Cup qualifier in Mozambique,+7 −7,1376 1050,+3 0,116 184
+May 18 2014,Swaziland> Sierra Leone>,1 1,African Nations Cup qualifier in Swaziland,+7 −7,1140 1357,0 −3,171 123
+May 18 2014,Tanzania> Zimbabwe>,1 0,African Nations Cup qualifier in Tanzania,+16 −16,1370 1365,+5 −5,119 120
+May 19 2014,Maldives> Myanmar>,2 3,Asian Cup q & Asian Challenge Cup in the Maldives,−30 +30,1057 1035,−5 +3,183 185
+May 19 2014,Palestine> Kyrgyzstan>,1 0,Asian Cup q & Asian Challenge Cup in the Maldives,+11 −11,1303 1115,+1 −2,133 175
+May 20 2014,Afghanistan> Philippines>,0 0,Asian Cup q & Asian Challenge Cup in the Maldives,+7 −7,1068 1187,+1 −2,181 162
+May 20 2014,French Guiana> Suriname>,0 0,Friendly in French Guiana,−3 +3,1233 1237,−2 +2,149 147
+May 20 2014,Turkmenistan> Laos>,5 1,Asian Cup q & Asian Challenge Cup in the Maldives,+4 −4,1349 846,0 0,125 206
+May 21 2014,Burkina Faso> Senegal>,1 1,Friendly in Burkina Faso,−2 +2,1538 1573,0 +1,74 64
+May 21 2014,Finland> Czechia>,2 2,Friendly in Finland,−1 +1,1684 1756,0 0,45 27
+May 21 2014,Kosovo> Turkey>,1 6,Friendly in Kosovo,−8 +8,1371 1732,−3 +2,118 29
+May 21 2014,Liechtenstein> Belarus>,1 5,Friendly in Liechtenstein,−5 +5,1173 1593,−1 +1,164 61
+May 21 2014,Maldives> Kyrgyzstan>,2 0,Asian Cup q & Asian Challenge Cup in the Maldives,+26 −26,1083 1089,+4 −2,179 177
+May 21 2014,Palestine> Myanmar>,2 0,Asian Cup q & Asian Challenge Cup in the Maldives,+11 −11,1314 1024,+2 −1,131 186
+May 22 2014,Afghanistan> Turkmenistan>,3 1,Asian Cup q & Asian Challenge Cup in the Maldives,+50 −50,1118 1299,+8 −8,174 133
+May 22 2014,Hungary> Denmark>,2 2,Friendly in Hungary,−1 +1,1667 1745,0 0,46 28
+May 22 2014,Philippines> Laos>,2 0,Asian Cup q & Asian Challenge Cup in the Maldives,+7 −7,1194 839,+2 −1,160 207
+May 22 2014,Ukraine> Niger>,2 1,Friendly in Ukraine,0 0,1840 1291,0 0,17 135
+May 23 2014,Bulgaria> Canada>,1 1,Friendly in Austria,−4 +4,1644 1492,−1 +2,50 88
+May 23 2014,Kyrgyzstan> Myanmar>,1 0,Asian Cup q & Asian Challenge Cup in the Maldives,+16 −16,1105 1008,+1 −2,177 188
+May 23 2014,Maldives> Palestine>,0 0,Asian Cup q & Asian Challenge Cup in the Maldives,+7 −7,1090 1307,+1 −2,179 132
+May 23 2014,Morocco> Mozambique>,4 0,Friendly in Portugal,+11 −11,1538 1365,+3 −4,74 119
+May 23 2014,Slovakia> Montenegro>,2 0,Friendly in Slovakia,+10 −10,1637 1601,0 −1,53 58
+May 24 2014,Afghanistan> Laos>,0 0,Asian Cup q & Asian Challenge Cup in the Maldives,−13 +13,1105 852,−2 +1,176 206
+May 24 2014,Moldova> Saudi Arabia>,4 0,Friendly in Spain,+22 −22,1459 1468,+8 −4,96 94
+May 24 2014,Philippines> Turkmenistan>,2 0,Asian Cup q & Asian Challenge Cup in the Maldives,+39 −39,1233 1260,+11 −9,149 142
+May 25 2014,Guinea> Mali>,2 1,Friendly in France,+11 −11,1542 1548,+3 −1,73 70
+May 25 2014,Ireland> Turkey>,1 2,Friendly in Ireland,−12 +12,1689 1744,−5 0,44 29
+May 25 2014,Senegal> Kosovo>,3 1,Friendly in Switzerland,+7 −7,1580 1364,+1 −3,63 120
+May 26 2014,Australia> South Africa>,1 1,Friendly in Australia,−6 +6,1717 1579,0 +1,33 64
+May 26 2014,Belgium> Luxembourg>,5 1,Friendly in Belgium,+1 −1,1832 1212,0 0,18 155
+May 26 2014,Cameroon> Macedonia>,2 0,Friendly in Austria,+12 −12,1603 1508,+4 −2,58 82
+May 26 2014,Estonia> Gibraltar>,1 1,Friendly in Estonia,−9 +9,1466 1134,−3 +1,95 172
+May 26 2014,Iran> Montenegro>,0 0,Friendly in Austria,−3 +3,1712 1604,−1 +1,35 57
+May 26 2014,Russia> Slovakia>,1 0,Friendly in Russia,+3 −3,1851 1634,+1 0,13 53
+May 26 2014,Serbia> Jamaica>,2 1,Friendly in the United States,+4 −4,1770 1523,+1 0,24 78
+May 27 2014,Armenia> United Arab Emirates>,4 3,Friendly in Switzerland,+12 −12,1589 1642,+2 −3,63 51
+May 27 2014,Canada> Moldova>,1 1,Friendly in Austria,−1 +1,1491 1460,−1 0,89 96
+May 27 2014,France> Norway>,4 0,Friendly in France,+4 −4,1901 1615,0 −1,12 56
+May 27 2014,Japan> Cyprus>,1 0,Friendly in Japan,+1 −1,1769 1386,0 0,25 112
+May 27 2014,Maldives> Philippines>,2 3,Asian Cup q & Asian Challenge Cup in the Maldives,−18 +18,1072 1251,−3 +5,182 144
+May 27 2014,Palestine> Afghanistan>,2 0,Asian Cup q & Asian Challenge Cup in the Maldives,+14 −14,1321 1091,+4 −2,128 178
+May 27 2014,Suriname> French Guiana>,1 0,Friendly in Suriname,+7 −7,1244 1226,0 −1,147 150
+May 27 2014,Tanzania> Malawi>,1 0,Friendly in Tanzania,+6 −6,1376 1328,+2 −1,115 126
+May 27 2014,United States> Azerbaijan>,2 0,Friendly in the United States,+2 −2,1848 1441,+1 −1,15 104
+May 27 2014,Uzbekistan> Oman>,0 1,Friendly in Uzbekistan,−15 +15,1628 1581,−1 +3,53 64
+May 28 2014,Angola> Morocco>,2 0,Friendly in Portugal,+19 −19,1465 1519,+6 −6,96 81
+May 28 2014,Denmark> Sweden>,1 0,Friendly in Denmark,+9 −9,1754 1814,0 −2,28 21
+May 28 2014,Mexico> Israel>,3 0,Friendly in Mexico,+5 −5,1817 1614,+2 −1,19 56
+May 28 2014,Nigeria> Scotland>,2 2,Friendly in England,−1 +1,1730 1711,0 +1,30 36
+May 28 2014,South Korea> Tunisia>,0 1,Friendly in South Korea,−17 +17,1686 1531,−6 +5,44 76
+May 29 2014,Georgia> Saudi Arabia>,2 0,Friendly in Spain,+14 −14,1513 1454,+5 −7,82 100
+May 29 2014,Latvia> Estonia>,0 0,Baltic Cup in Latvia,−4 +4,1445 1470,0 +1,102 94
+May 29 2014,Lithuania> Finland>,1 0,Baltic Cup in Latvia,+24 −24,1481 1660,+9 −2,90 47
+May 29 2014,Maldives> Afghanistan>,1 1,Asian Cup q & Asian Challenge Cup in the Maldives,−5 +5,1067 1096,0 0,182 178
+May 29 2014,Paraguay> Cameroon>,2 1,Friendly in Austria,+7 −7,1701 1596,+2 −2,38 60
+May 29 2014,Turkey> Honduras>,2 0,Friendly in the United States,+13 −13,1757 1680,+2 −2,27 44
+May 29 2014,Uzbekistan> Oman>,0 1,Friendly in Uzbekistan,−14 +14,1614 1595,−2 +3,55 61
+May 30 2014,Angola> Iran>,1 1,Friendly in Austria,+6 −6,1471 1706,+2 −1,94 36
+May 30 2014,Aruba> Turks and Caicos Islands>,1 0,CONCACAF Champ & Carib Champ q in Aruba,+7 −7,943 758,+1 0,195 211
+May 30 2014,Austria> Iceland>,1 1,Friendly in Austria,−6 +6,1661 1534,−1 +1,46 76
+May 30 2014,Bosnia and Herzegovina> Ivory Coast>,2 1,Friendly in the United States,+11 −11,1775 1772,+3 −1,23 24
+May 30 2014,Chile> Egypt>,3 2,Friendly in Chile,+3 −3,1919 1712,0 0,9 34
+May 30 2014,Comoros> Kenya>,1 1,African Nations Cup qualifier in the Comoros,+17 −17,897 1426,+1 −3,201 106
+May 30 2014,England> Peru>,3 0,Friendly in England,+5 −5,1941 1706,0 0,6 36
+May 30 2014,French Guiana> British Virgin Islands>,6 0,CONCACAF Champ & Carib Champ q in Aruba,+4 −4,1230 681,0 −1,150 220
+May 30 2014,Macedonia> Qatar>,0 0,Friendly in Italy,+1 −1,1509 1547,0 −1,83 71
+May 30 2014,Montserrat> US Virgin Islands>,1 0,CONCACAF Champ & Carib Champ q in Montserrat,+20 −20,618 685,+1 −3,229 218
+May 30 2014,Mozambique> South Sudan>,0 0,African Nations Cup qualifier in Sudan,−14 +14,1351 1064,−6 +1,124 183
+May 30 2014,New Zealand> South Africa>,0 0,Friendly in New Zealand,−2 +2,1543 1581,0 +1,72 65
+May 30 2014,Palestine> Philippines>,1 0,Asian Cup q & Asian Challenge Cup in the Maldives,+16 −16,1337 1235,+3 −4,125 148
+May 30 2014,Spain> Bolivia>,2 0,Friendly in Spain,+1 −1,2108 1626,0 0,2 53
+May 30 2014,Switzerland> Jamaica>,1 0,Friendly in Switzerland,+2 −2,1850 1521,+1 −1,14 79
+May 30 2014,Uruguay> Northern Ireland>,1 0,Friendly in Uruguay,+1 −1,1916 1412,0 0,10 109
+May 31 2014,Algeria> Armenia>,3 1,Friendly in Switzerland,+15 −15,1615 1574,+4 −2,55 66
+May 31 2014,Chad> Malawi>,3 1,African Nations Cup qualifier in Chad,+31 −31,1247 1297,+10 −5,144 132
+May 31 2014,Colombia> Senegal>,2 2,Friendly in Argentina,−8 +8,1917 1588,−1 +2,9 64
+May 31 2014,Croatia> Mali>,2 1,Friendly in Croatia,+2 −2,1812 1546,0 −1,22 71
+May 31 2014,Finland> Estonia>,2 0,Baltic Cup in Latvia,+11 −11,1671 1459,+2 −2,45 97
+May 31 2014,Guinea-Bissau> Central African Republic>,3 1,African Nations Cup qualifier in Guinea-Bissau,+26 −26,1243 1241,+6 −10,147 149
+May 31 2014,Ireland> Italy>,0 0,Friendly in England,+6 −6,1695 1898,+1 −1,41 12
+May 31 2014,Latvia> Lithuania>,1 0,Baltic Cup in Latvia,+12 −12,1457 1469,+3 −4,99 94
+May 31 2014,Mexico> Ecuador>,3 1,Friendly in the United States,+16 −16,1833 1833,+2 −2,17 17
+May 31 2014,Netherlands> Ghana>,1 0,Friendly in the Netherlands,+2 −2,1984 1692,0 −1,5 42
+May 31 2014,Norway> Russia>,1 1,Friendly in Norway,+4 −4,1619 1847,0 −2,54 15
+May 31 2014,Panama> Serbia>,1 1,Friendly in the United States,+2 −2,1702 1768,+1 −1,38 26
+May 31 2014,Portugal> Greece>,0 0,Friendly in Portugal,−6 +6,1928 1822,0 0,7 20
+May 31 2014,Romania> Albania>,1 0,Friendly in Switzerland,+5 −5,1729 1515,+1 0,31 80
+May 31 2014,Rwanda> Libya>,3 0,African Nations Cup qualifier in Rwanda,+47 −47,1363 1494,+10 −13,120 87
+May 31 2014,Sierra Leone> Swaziland>,1 0,African Nations Cup qualifier in Sierra Leone,+6 −6,1363 1134,+2 0,120 171
+May 31 2014,Uganda> Madagascar>,1 0,African Nations Cup qualifier in Uganda,+4 −4,1479 1192,+3 0,90 160
+June 1 2014,Aruba> British Virgin Islands>,7 0,CONCACAF Champ & Carib Champ q in Aruba,+10 −10,953 671,+1 −4,194 224
+June 1 2014,Benin> São Tomé and Príncipe>,2 0,African Nations Cup qualifier in Benin,+5 −5,1408 1080,0 −1,111 180
+June 1 2014,Bonaire> US Virgin Islands>,2 1,CONCACAF Champ & Carib Champ q in Montserrat,+5 −5,1034 680,0 −1,185 219
+June 1 2014,Botswana> Burundi>,1 0,African Nations Cup qualifier in Botswana,+16 −16,1301 1305,+4 0,131 129
+June 1 2014,Congo> Namibia>,3 0,African Nations Cup qualifier in Congo,+20 −20,1396 1292,+3 −5,112 135
+June 1 2014,Equatorial Guinea> Mauritania>,3 0,African Nations Cup qualifier in Equatorial Guinea,+22 −22,1305 1221,+7 −8,129 155
+June 1 2014,France> Paraguay>,1 1,Friendly in France,−7 +7,1894 1708,−1 +3,12 36
+June 1 2014,French Guiana> Turks and Caicos Islands>,6 0,CONCACAF Champ & Carib Champ q in Aruba,+5 −5,1235 753,+2 −1,150 212
+June 1 2014,Germany> Cameroon>,2 2,Friendly in Germany,−9 +9,2072 1605,0 +2,3 58
+June 1 2014,Israel> Honduras>,4 2,Friendly in the United States,+18 −18,1632 1662,+3 −2,53 46
+June 1 2014,Lesotho> Liberia>,2 0,African Nations Cup qualifier in Lesotho,+32 −32,1238 1296,+7 −5,149 133
+June 1 2014,Sweden> Belgium>,0 2,Friendly in Sweden,−18 +18,1796 1850,−1 +5,22 14
+June 1 2014,United States> Turkey>,2 1,Friendly in the United States,+5 −5,1853 1752,+1 −2,13 29
+June 1 2014,Zimbabwe> Tanzania>,2 2,African Nations Cup qualifier in Zimbabwe,−5 +5,1360 1381,−5 −1,123 116
+June 2 2014,Japan> Costa Rica>,3 1,Friendly in the United States,+13 −13,1782 1712,+2 −1,23 33
+June 3 2014,Aruba> French Guiana>,0 2,CONCACAF Champ & Carib Champ q in Aruba,−16 +16,937 1251,−2 +7,196 143
+June 3 2014,Bosnia and Herzegovina> Mexico>,1 0,Friendly in the United States,+12 −12,1787 1821,+1 −1,23 19
+June 3 2014,Brazil> Panama>,4 0,Friendly in Brazil,+2 −2,2137 1700,0 +1,1 38
+June 3 2014,Czechia> Austria>,1 2,Friendly in Czechia,−15 +15,1741 1676,−2 +3,29 44
+June 3 2014,Greece> Nigeria>,0 0,Friendly in the United States,−3 +3,1819 1733,0 0,20 30
+June 3 2014,Montserrat> Bonaire>,0 0,CONCACAF Champ & Carib Champ q in Montserrat,+14 −14,632 1020,+2 −1,227 186
+June 3 2014,Switzerland> Peru>,2 0,Friendly in Switzerland,+6 −6,1856 1700,+1 −1,13 38
+June 3 2014,Turks and Caicos Islands> British Virgin Islands>,2 0,CONCACAF Champ & Carib Champ q in Aruba,+23 −23,776 648,+1 −2,211 226
+June 3 2014,United Arab Emirates> Georgia>,1 0,Friendly in Switzerland,+6 −6,1648 1507,+3 −1,48 82
+June 4 2014,Algeria> Romania>,2 1,Friendly in Switzerland,+13 −13,1628 1716,+2 −1,54 32
+June 4 2014,Argentina> Trinidad and Tobago>,3 0,Friendly in Argentina,+1 −1,2016 1505,0 −1,4 84
+June 4 2014,Chile> Northern Ireland>,2 0,Friendly in Chile,+1 −1,1920 1411,0 0,8 109
+June 4 2014,Ecuador> England>,2 2,Friendly in the United States,+3 −3,1836 1938,0 0,18 6
+June 4 2014,Egypt> Jamaica>,2 2,Friendly in England,−5 +5,1707 1526,−3 +1,36 77
+June 4 2014,Equatorial Guinea> São Tomé and Príncipe>,3 2,Friendly in Equatorial Guinea,+3 −3,1308 1077,+1 0,128 180
+June 4 2014,Gibraltar> Malta>,1 0,Friendly in Portugal,+13 −13,1147 1236,+1 −6,170 150
+June 4 2014,Hungary> Albania>,1 0,Friendly in Hungary,+4 −4,1671 1511,+1 0,45 80
+June 4 2014,Iceland> Estonia>,1 0,Friendly in Iceland,+5 −5,1539 1454,+1 −3,74 100
+June 4 2014,Italy> Luxembourg>,1 1,Friendly in Italy,−10 +10,1888 1222,−1 +2,12 154
+June 4 2014,Ivory Coast> El Salvador>,2 1,Friendly in the United States,+4 −4,1776 1519,0 −1,25 78
+June 4 2014,Netherlands> Wales>,2 0,Friendly in the Netherlands,+2 −2,1986 1593,0 −1,5 62
+June 4 2014,Uruguay> Slovenia>,2 0,Friendly in Uruguay,+3 −3,1919 1645,+1 −1,9 49
+June 6 2014,Brazil> Serbia>,1 0,Friendly in Brazil,+1 −1,2138 1767,0 0,1 26
+June 6 2014,Colombia> Jordan>,3 0,Friendly in Argentina,+5 −5,1922 1598,+2 0,8 60
+June 6 2014,Costa Rica> Ireland>,1 1,Friendly in the United States,0 0,1712 1695,+1 0,32 41
+June 6 2014,Croatia> Australia>,1 0,Friendly in Brazil,+7 −7,1819 1710,+1 −3,20 34
+June 6 2014,Germany> Armenia>,6 1,Friendly in Germany,+1 −1,2073 1573,0 0,3 66
+June 6 2014,Greece> Bolivia>,2 1,Friendly in the United States,+5 −5,1824 1621,+1 0,19 55
+June 6 2014,Japan> Zambia>,4 3,Friendly in the United States,+3 −3,1785 1489,0 −1,24 89
+June 6 2014,Poland> Lithuania>,2 1,Friendly in Poland,+3 −3,1647 1466,+1 −1,49 95
+June 6 2014,Portugal> Mexico>,1 0,Friendly in the United States,+7 −7,1935 1814,0 −2,7 21
+June 6 2014,Russia> Morocco>,2 0,Friendly in Russia,+2 −2,1849 1517,0 −1,16 79
+June 7 2014,Argentina> Slovenia>,2 0,Friendly in Argentina,+2 −2,2018 1643,0 −1,4 51
+June 7 2014,Belgium> Tunisia>,1 0,Friendly in Belgium,+2 −2,1852 1529,0 0,15 76
+June 7 2014,Cameroon> Moldova>,1 0,Friendly in Cameroon,+4 −4,1609 1456,0 −3,58 99
+June 7 2014,England> Honduras>,0 0,Friendly in the United States,−7 +7,1931 1669,−1 0,7 47
+June 7 2014,Estonia> Tajikistan>,2 1,Friendly in Estonia,+3 −3,1457 1259,+3 −2,97 142
+June 7 2014,Hungary> Kazakhstan>,3 0,Friendly in Hungary,+3 −3,1674 1358,0 −1,45 123
+June 7 2014,Spain> El Salvador>,2 0,Friendly in the United States,+1 −1,2109 1518,0 0,2 78
+June 7 2014,United States> Nigeria>,2 1,Friendly in the United States,+4 −4,1857 1729,+1 0,13 30
+June 8 2014,France> Jamaica>,8 0,Friendly in France,+3 −3,1897 1523,0 0,11 77
+June 8 2014,Iran> Trinidad and Tobago>,2 0,Friendly in Brazil,+7 −7,1713 1498,+5 −2,32 86
+June 8 2014,San Marino> Albania>,0 3,Friendly in San Marino,−2 +2,876 1513,0 0,203 80
+June 9 2014,Ghana> South Korea>,4 0,Friendly in the United States,+18 −18,1710 1668,+7 −4,35 47
+June 10 2014,Portugal> Ireland>,5 1,Friendly in the United States,+8 −8,1943 1687,0 0,6 42
+June 12 2014,Brazil> Croatia>,3 1,World Cup in Brazil,+7 −7,2145 1812,0 −1,1 21
+June 13 2014,Chile> Australia>,3 1,World Cup in Brazil,+21 −21,1941 1689,+2 −6,7 41
+June 13 2014,Mexico> Cameroon>,1 0,World Cup in Brazil,+14 −14,1828 1595,+1 −2,19 60
+June 13 2014,Netherlands> Spain>,5 1,World Cup in Brazil,+75 −75,2061 2034,+2 −2,3 4
+June 14 2014,Colombia> Greece>,3 0,World Cup in Brazil,+38 −38,1960 1786,+3 −4,6 24
+June 14 2014,Costa Rica> Uruguay>,3 1,World Cup in Brazil,+69 −69,1781 1850,+8 −5,25 15
+June 14 2014,Italy> England>,2 1,World Cup in Brazil,+34 −34,1922 1897,+3 −2,9 10
+June 14 2014,Ivory Coast> Japan>,2 1,World Cup in Brazil,+31 −31,1807 1754,+4 −3,21 27
+June 15 2014,Argentina> Bosnia and Herzegovina>,2 1,World Cup in Brazil,+13 −13,2031 1774,0 −2,5 25
+June 15 2014,France> Honduras>,3 0,World Cup in Brazil,+22 −22,1919 1647,0 −2,10 48
+June 15 2014,Switzerland> Ecuador>,2 1,World Cup in Brazil,+28 −28,1884 1808,+1 −2,12 20
+June 16 2014,Germany> Portugal>,4 0,World Cup in Brazil,+36 −36,2109 1907,0 −3,2 10
+June 16 2014,Iran> Nigeria>,0 0,World Cup in Brazil,+1 −1,1714 1728,0 0,33 31
+June 16 2014,United States> Ghana>,2 1,World Cup in Brazil,+18 −18,1875 1692,0 −5,13 40
+June 17 2014,Belgium> Algeria>,2 1,World Cup in Brazil,+13 −13,1865 1615,0 −2,14 56
+June 17 2014,Brazil> Mexico>,0 0,World Cup in Brazil,−25 +25,2120 1853,0 +3,1 15
+June 17 2014,Russia> South Korea>,1 1,World Cup in Brazil,−14 +14,1835 1682,−2 +3,18 43
+June 18 2014,Chile> Spain>,2 0,World Cup in Brazil,+57 −57,1998 1977,+2 −2,5 6
+June 18 2014,China> Macedonia>,2 0,Friendly in China,+9 −9,1565 1500,+1 −4,68 85
+June 18 2014,Croatia> Cameroon>,4 0,World Cup in Brazil,+25 −25,1837 1570,+1 −6,18 66
+June 18 2014,Netherlands> Australia>,3 2,World Cup in Brazil,+6 −6,2067 1683,0 −1,3 42
+June 19 2014,Colombia> Ivory Coast>,2 1,World Cup in Brazil,+18 −18,1978 1789,+1 −1,6 22
+June 19 2014,Greece> Japan>,0 0,World Cup in Brazil,−3 +3,1783 1757,0 0,23 27
+June 19 2014,Uruguay> England>,2 1,World Cup in Brazil,+34 −34,1884 1863,+5 −4,11 15
+June 20 2014,Costa Rica> Italy>,1 0,World Cup in Brazil,+42 −42,1823 1880,+3 −3,21 11
+June 20 2014,Ecuador> Honduras>,2 1,World Cup in Brazil,+17 −17,1825 1630,0 −5,20 53
+June 20 2014,France> Switzerland>,5 2,World Cup in Brazil,+47 −47,1966 1837,+1 −6,8 17
+June 21 2014,Argentina> Iran>,1 0,World Cup in Brazil,+8 −8,2039 1706,0 −4,4 37
+June 21 2014,Germany> Ghana>,2 2,World Cup in Brazil,−25 +25,2084 1717,0 +8,2 32
+June 21 2014,Indonesia> Pakistan>,4 0,Friendly in Indonesia,+4 −4,1226 939,+1 0,153 195
+June 21 2014,Nigeria> Bosnia and Herzegovina>,1 0,World Cup in Brazil,+34 −34,1762 1740,+5 −6,26 31
+June 22 2014,Algeria> South Korea>,4 2,World Cup in Brazil,+54 −54,1669 1628,+10 −11,46 54
+June 22 2014,Belgium> Russia>,1 0,World Cup in Brazil,+27 −27,1892 1808,+3 −2,10 21
+June 22 2014,China> Macedonia>,0 0,Friendly in China,−4 +4,1561 1504,−1 0,69 85
+June 22 2014,Portugal> United States>,2 2,World Cup in Brazil,−3 +3,1904 1878,0 −1,9 13
+June 23 2014,Brazil> Cameroon>,4 1,World Cup in Brazil,+2 −2,2122 1568,0 −1,1 67
+June 23 2014,Mexico> Croatia>,3 1,World Cup in Brazil,+43 −43,1896 1794,+5 −5,10 22
+June 23 2014,Netherlands> Chile>,2 0,World Cup in Brazil,+36 −36,2103 1962,+1 −3,2 8
+June 23 2014,Spain> Australia>,3 0,World Cup in Brazil,+16 −16,1993 1667,+2 −4,5 46
+June 24 2014,Colombia> Japan>,4 1,World Cup in Brazil,+23 −23,2001 1734,+1 −4,5 31
+June 24 2014,Costa Rica> England>,0 0,World Cup in Brazil,+3 −3,1826 1860,+1 +1,18 14
+June 24 2014,Greece> Ivory Coast>,2 1,World Cup in Brazil,+31 −31,1814 1758,+4 −3,20 26
+June 24 2014,Uruguay> Italy>,1 0,World Cup in Brazil,+30 −30,1914 1850,+3 −2,9 15
+June 25 2014,Argentina> Nigeria>,3 2,World Cup in Brazil,+10 −10,2049 1752,0 −3,4 28
+June 25 2014,Bosnia and Herzegovina> Iran>,3 1,World Cup in Brazil,+41 −41,1781 1665,+6 −9,24 46
+June 25 2014,Ecuador> France>,0 0,World Cup in Brazil,+12 −12,1837 1954,+1 −1,18 8
+June 25 2014,Indonesia> Nepal>,2 0,Friendly in Indonesia,+2 −2,1228 892,0 0,153 202
+June 25 2014,Switzerland> Honduras>,3 0,World Cup in Brazil,+24 −24,1861 1606,+3 −4,14 57
+June 26 2014,Algeria> Russia>,1 1,World Cup in Brazil,+11 −11,1680 1797,+3 0,41 21
+June 26 2014,Belgium> South Korea>,1 0,World Cup in Brazil,+11 −11,1903 1617,+1 −2,11 55
+June 26 2014,Germany> United States>,1 0,World Cup in Brazil,+14 −14,2098 1864,0 0,3 13
+June 26 2014,Portugal> Ghana>,2 1,World Cup in Brazil,+15 −15,1919 1702,+1 −4,9 36
+June 28 2014,Brazil> Chile>,1 1,World Cup in Brazil,−19 +19,2103 1981,0 0,1 7
+June 28 2014,Colombia> Uruguay>,2 0,World Cup in Brazil,+34 −34,2035 1880,0 −2,5 12
+June 29 2014,China> Mali>,1 3,Friendly in China,−20 +20,1541 1566,−4 +3,73 68
+June 29 2014,Costa Rica> Greece>,1 1,World Cup in Brazil,−1 +1,1825 1815,0 0,19 20
+June 29 2014,Netherlands> Mexico>,2 1,World Cup in Brazil,+14 −14,2117 1882,0 0,1 11
+June 30 2014,France> Nigeria>,2 0,World Cup in Brazil,+21 −21,1975 1731,0 −3,8 31
+June 30 2014,Germany> Algeria>,2 1,World Cup in Brazil,+5 −5,2103 1675,+1 −1,2 42
+July 1 2014,Argentina> Switzerland>,1 0,World Cup in Brazil,+15 −15,2064 1846,0 −1,4 15
+July 1 2014,Belgium> United States>,2 1,World Cup in Brazil,+27 −27,1930 1837,+1 −4,9 17
+July 1 2014,Botswana> Tanzania>,4 2,Friendly in Botswana,+14 −14,1315 1367,+3 −1,128 117
+July 2 2014,Vietnam> Myanmar>,6 0,Friendly in Vietnam,+6 −6,1241 1002,+3 0,148 188
+July 4 2014,Brazil> Colombia>,2 1,World Cup in Brazil,+17 −17,2120 2018,0 0,2 5
+July 4 2014,Germany> France>,1 0,World Cup in Brazil,+19 −19,2122 1956,+1 0,1 8
+July 5 2014,Argentina> Belgium>,1 0,World Cup in Brazil,+19 −19,2083 1911,0 −1,4 10
+July 5 2014,Costa Rica> Netherlands>,0 0,World Cup in Brazil,+21 −21,1846 2096,+4 0,15 3
+July 6 2014,Malawi> Mozambique>,1 1,Friendly in Malawi,−1 +1,1296 1352,0 0,132 125
+July 8 2014,Brazil> Germany>,1 7,World Cup in Brazil,−81 +81,2039 2203,−2 0,4 1
+July 9 2014,Argentina> Netherlands>,0 0,World Cup in Brazil,+1 −1,2084 2095,0 0,3 2
+July 11 2014,Uganda> Seychelles>,1 0,Friendly in Uganda,+1 −1,1480 995,0 −1,90 190
+July 12 2014,Brazil> Netherlands>,0 3,World Cup in Brazil,−59 +59,1980 2154,−3 0,7 2
+July 12 2014,Rwanda> Gabon>,1 0,Friendly in Rwanda,+11 −11,1374 1495,+3 −4,116 86
+July 13 2014,Germany> Argentina>,1 0,World Cup in Brazil,+20 −20,2223 2064,0 0,1 3
+July 14 2014,Botswana> Lesotho>,2 0,Friendly in Botswana,+8 −8,1323 1230,0 −3,128 153
+July 14 2014,Qatar> Indonesia>,2 2,Friendly in Qatar,−8 +8,1539 1236,−3 +3,73 150
+July 15 2014,Kenya> Burundi>,0 0,Friendly in Kenya,−6 +6,1420 1311,−2 +2,108 129
+July 15 2014,Uganda> Malawi>,0 0,Friendly in Uganda,−7 +7,1473 1303,−2 0,92 132
+July 19 2014,Botswana> Guinea-Bissau>,2 0,African Nations Cup qualifier in Botswana,+16 −16,1339 1227,+2 −6,126 153
+July 19 2014,Sierra Leone> Seychelles>,2 0,African Nations Cup qualifier in Sierra Leone,+4 −4,1367 991,+2 0,118 190
+July 19 2014,Uganda> Mauritania>,2 0,African Nations Cup qualifier in Uganda,+7 −7,1480 1214,+2 0,90 156
+July 20 2014,Benin> Malawi>,1 0,African Nations Cup qualifier in Benin,+9 −9,1417 1294,+3 −2,108 134
+July 20 2014,Congo> Rwanda>,2 0,African Nations Cup qualifier in Congo,+20 −20,1416 1354,+3 −9,109 125
+July 20 2014,Lesotho> Kenya>,1 0,African Nations Cup qualifier in Lesotho,+25 −25,1255 1395,+9 −4,143 112
+July 20 2014,Tanzania> Mozambique>,2 2,African Nations Cup qualifier in Tanzania,−6 +6,1361 1358,−2 +3,120 122
+July 21 2014,Guam> Macao>,0 0,East Asian Championship qualifier in Guam,−11 +11,728 630,0 0,213 229
+July 21 2014,Mongolia> Northern Mariana Islands>,4 0,East Asian Championship qualifier in Guam,+10 −10,792 440,+1 0,209 237
+July 23 2014,Guam> Mongolia>,2 0,East Asian Championship qualifier in Guam,+27 −27,755 765,0 −2,213 211
+July 23 2014,Northern Mariana Islands> Macao>,2 1,East Asian Championship qualifier in Guam,+30 −30,470 600,0 −1,237 230
+July 25 2014,Guam> Northern Mariana Islands>,5 0,East Asian Championship qualifier in Guam,+8 −8,763 462,+2 0,211 237
+July 25 2014,Macao> Mongolia>,3 2,East Asian Championship qualifier in Guam,+29 −29,629 736,+1 −2,229 213
+July 27 2014,Gabon> Rwanda>,0 1,Friendly in Gabon,−16 +16,1479 1370,−4 +8,90 117
+August 2 2014,Guinea-Bissau> Botswana>,1 1,African Nations Cup qualifier in Guinea-Bissau,+1 −1,1228 1338,0 0,153 126
+August 2 2014,Malawi> Benin>,1 0,African Nations Cup qualifier in Malawi,+21 −21,1315 1396,+5 −2,129 110
+August 2 2014,Rwanda> Congo>,2 0,African Nations Cup qualifier in Rwanda,+25 −25,1395 1391,+6 −4,111 113
+August 3 2014,Angola> Ethiopia>,1 0,Friendly in Angola,+5 −5,1476 1379,0 −1,93 116
+August 3 2014,Kenya> Lesotho>,0 0,African Nations Cup qualifier in Kenya,−12 +12,1383 1267,−4 +4,115 139
+August 3 2014,Mauritania> Uganda>,0 1,African Nations Cup qualifier in Mauritania,−11 +11,1203 1491,−1 +2,157 87
+August 3 2014,Mozambique> Tanzania>,2 1,African Nations Cup qualifier in Mozambique,+15 −15,1373 1346,+6 −4,117 125
+August 6 2014,Peru> Panama>,3 0,Friendly in Peru,+13 −13,1713 1687,+4 −2,33 39
+August 8 2014,Tajikistan> Malaysia>,4 1,Friendly in Tajikistan,+10 −10,1269 1179,+4 0,139 162
+August 12 2014,Kazakhstan> Tajikistan>,2 1,Friendly in Kazakhstan,+5 −5,1363 1264,+2 −2,121 141
+August 13 2014,Angola> Botswana>,0 0,Friendly in Angola,−6 +6,1470 1344,0 0,93 126
+August 14 2014,Guatemala> Nicaragua>,3 0,Friendly in Guatemala,+2 −2,1480 1116,+1 0,90 174
+August 16 2014,British Virgin Islands> Saint Martin>,2 4,Friendly in the British Virgin Islands,−11 +11,637 865,0 0,226 205
+August 20 2014,Azerbaijan> Uzbekistan>,0 0,Friendly in Azerbaijan,+2 −2,1443 1612,0 0,103 56
+August 20 2014,Panama> Cuba>,4 0,Friendly in Panama,+4 −4,1691 1417,0 0,39 107
+August 23 2014,Guatemala> Cuba>,1 0,Friendly in Guatemala,+6 −6,1486 1411,0 0,90 107
+August 24 2014,French Guiana> Suriname>,0 1,Friendly in French Guiana,−13 +13,1238 1257,−5 +3,149 144
+August 26 2014,Seychelles> Sri Lanka>,1 2,Friendly in the Seychelles,−16 +16,975 843,−1 0,191 208
+August 27 2014,Norway> United Arab Emirates>,0 0,Friendly in Norway,−2 +2,1617 1650,0 0,54 47
+August 28 2014,Seychelles> Sri Lanka>,3 0,Friendly in the Seychelles,+7 −7,982 836,0 0,191 208
+August 30 2014,Egypt> Kenya>,1 0,Friendly in Egypt,+2 −2,1709 1381,+1 0,35 115
+August 30 2014,El Salvador> Dominican Republic>,2 0,Friendly in El Salvador,+3 −3,1521 1257,0 −1,78 143
+August 31 2014,Zambia> Sudan>,3 1,Friendly in Zambia,+7 −7,1496 1377,+3 −2,86 116
+September 2 2014,Niger> Uganda>,2 0,Friendly in Niger,+19 −19,1310 1472,+5 −4,131 92
+September 3 2014,Antigua and Barbuda> Anguilla>,6 0,CONCACAF Champ & Carib Champ q in Antigua and Barbuda,+1 −1,1267 550,+1 0,139 233
+September 3 2014,Barbados> Suriname>,1 1,CONCACAF Champ & Carib Champ q in Martinique,+7 −7,1134 1250,+1 0,172 143
+September 3 2014,Costa Rica> Nicaragua>,3 0,CONCACAF Champ q & C Am Cup in the United States,+1 −1,1847 1115,0 0,15 174
+September 3 2014,Czechia> United States>,0 1,Friendly in Czechia,−10 +10,1731 1847,−1 +3,30 15
+September 3 2014,Denmark> Turkey>,1 2,Friendly in Denmark,−13 +13,1741 1765,−1 +2,28 26
+September 3 2014,Dominica> Guyana>,0 0,CONCACAF Champ & Carib Champ q in Saint Kitts and Nevis,+15 −15,976 1293,+1 −2,192 134
+September 3 2014,England> Norway>,1 0,Friendly in England,+2 −2,1862 1615,0 −1,13 55
+September 3 2014,French Guiana> Grenada>,1 1,CONCACAF Champ & Carib Champ q in Puerto Rico,−3 +3,1235 1193,−2 +1,151 160
+September 3 2014,Germany> Argentina>,2 4,Friendly in Germany,−24 +24,2199 2088,0 0,1 3
+September 3 2014,Guatemala> El Salvador>,2 1,CONCACAF Champ q & C Am Cup in the United States,+22 −22,1508 1499,+9 −7,80 85
+September 3 2014,Honduras> Belize>,2 0,CONCACAF Champ q & C Am Cup in the United States,+4 −4,1610 1148,0 −1,57 169
+September 3 2014,Ireland> Oman>,2 0,Friendly in Ireland,+7 −7,1694 1588,+1 −2,39 62
+September 3 2014,Latvia> Armenia>,2 0,Friendly in Latvia,+16 −16,1473 1557,+5 −4,92 69
+September 3 2014,Lithuania> United Arab Emirates>,1 1,Friendly in Austria,+5 −5,1471 1645,+1 −1,94 48
+September 3 2014,Martinique> Bonaire>,6 0,CONCACAF Champ & Carib Champ q in Martinique,+4 −4,1433 1016,+1 −2,104 188
+September 3 2014,Morocco> Qatar>,0 0,Friendly in Morocco,−2 +2,1515 1541,+1 +1,78 72
+September 3 2014,Myanmar> Palestine>,4 1,Friendly tournament in the Philippines,+46 −46,1048 1291,+3 −9,185 136
+September 3 2014,Philippines> Taiwan>,5 1,Friendly tournament in the Philippines,+3 −3,1238 841,+4 0,148 207
+September 3 2014,Puerto Rico> Curaçao>,2 2,CONCACAF Champ & Carib Champ q in Puerto Rico,−9 +9,1074 1021,−2 0,181 187
+September 3 2014,Russia> Azerbaijan>,4 0,Friendly in Russia,+3 −3,1800 1440,0 0,21 103
+September 3 2014,Saint Kitts and Nevis> Saint Lucia>,0 0,CONCACAF Champ & Carib Champ q in Saint Kitts and Nevis,−8 +8,1139 1111,−1 +2,171 175
+September 3 2014,St Vincent & Grenadines> Dominican Republic>,1 0,CONCACAF Champ & Carib Champ q in Antigua and Barbuda,+26 −26,1178 1231,+5 −9,163 152
+September 3 2014,Ukraine> Moldova>,1 0,Friendly in Ukraine,+1 −1,1841 1455,−1 −1,18 100
+September 4 2014,Belarus> Tajikistan>,6 1,Friendly in Belarus,+3 −3,1596 1261,+1 0,59 141
+September 4 2014,Belgium> Australia>,2 0,Friendly in Belgium,+4 −4,1915 1663,0 −1,10 46
+September 4 2014,Bosnia and Herzegovina> Liechtenstein>,3 0,Friendly in Bosnia and Herzegovina,+1 −1,1782 1172,0 0,24 165
+September 4 2014,China> Kuwait>,3 1,Friendly in China,+9 −9,1550 1496,+2 −4,70 86
+September 4 2014,Croatia> Cyprus>,2 0,Friendly in Croatia,+2 −2,1796 1384,0 0,23 113
+September 4 2014,France> Spain>,1 0,Friendly in France,+8 −8,1964 1985,0 0,8 5
+September 4 2014,Italy> Netherlands>,2 0,Friendly in Italy,+23 −23,1873 2131,+1 0,13 2
+September 4 2014,Peru> Iraq>,2 0,Friendly in the United Arab Emirates,+9 −9,1722 1560,+1 −3,32 68
+September 4 2014,Slovakia> Malta>,1 0,Friendly in Slovakia,+1 −1,1635 1235,0 −1,51 150
+September 4 2014,Sweden> Estonia>,2 0,Friendly in Sweden,+2 −2,1798 1455,0 −1,22 99
+September 4 2014,Uzbekistan> Jordan>,2 0,Friendly in Uzbekistan,+10 −10,1622 1588,+3 −2,53 61
+September 5 2014,Antigua and Barbuda> Dominican Republic>,2 1,CONCACAF Champ & Carib Champ q in Antigua and Barbuda,+13 −13,1280 1218,+3 −2,136 154
+September 5 2014,Bonaire> Suriname>,3 2,CONCACAF Champ & Carib Champ q in Martinique,+32 −32,1048 1218,+2 −11,186 154
+September 5 2014,Brazil> Colombia>,1 0,Friendly in the United States,+11 −11,1991 2007,+2 0,5 4
+September 5 2014,Curaçao> Grenada>,2 1,CONCACAF Champ & Carib Champ q in Puerto Rico,+29 −29,1050 1164,+2 −6,185 166
+September 5 2014,Guinea> Togo>,2 1,African Nations Cup qualifier in Morocco,+16 −16,1558 1461,+3 −5,69 96
+September 5 2014,Japan> Uruguay>,0 2,Friendly in Japan,−13 +13,1721 1893,−3 +1,32 11
+September 5 2014,Kazakhstan> Kyrgyzstan>,7 1,Friendly in Kazakhstan,+5 −5,1368 1100,+3 0,118 177
+September 5 2014,Martinique> Barbados>,3 2,CONCACAF Champ & Carib Champ q in Martinique,+4 −4,1437 1130,0 −2,104 174
+September 5 2014,Puerto Rico> French Guiana>,1 2,CONCACAF Champ & Carib Champ q in Puerto Rico,−17 +17,1057 1252,−3 +8,184 142
+September 5 2014,Senegal> Egypt>,2 0,African Nations Cup qualifier in Senegal,+32 −32,1620 1677,+5 −5,56 40
+September 5 2014,South Korea> Venezuela>,3 1,Friendly in South Korea,+14 −14,1631 1683,+2 −1,53 39
+September 5 2014,Saint Kitts and Nevis> Dominica>,5 0,CONCACAF Champ & Carib Champ q in Saint Kitts and Nevis,+14 −14,1153 962,+1 −1,170 193
+September 5 2014,Saint Lucia> Guyana>,2 0,CONCACAF Champ & Carib Champ q in Saint Kitts and Nevis,+44 −44,1155 1249,+6 −9,169 143
+September 5 2014,St Vincent & Grenadines> Anguilla>,4 0,CONCACAF Champ & Carib Champ q in Antigua and Barbuda,+2 −2,1180 548,+2 0,161 233
+September 5 2014,Sudan> South Africa>,0 3,African Nations Cup qualifier in Sudan,−25 +25,1352 1606,−8 +5,124 59
+September 6 2014,Burkina Faso> Lesotho>,2 0,African Nations Cup qualifier in Burkina Faso,+6 −6,1544 1261,+3 0,72 139
+September 6 2014,Chile> Mexico>,0 0,Friendly in the United States,−3 +3,1978 1885,0 0,7 12
+September 6 2014,Democratic Republic of Congo> Cameroon>,0 2,African Nations Cup qualifier in the Dem Rep of the Congo,−28 +28,1422 1596,−5 +4,107 61
+September 6 2014,Ecuador> Bolivia>,4 0,Friendly in the United States,+8 −8,1845 1613,+1 −2,18 57
+September 6 2014,Ethiopia> Algeria>,1 2,African Nations Cup qualifier in Ethiopia,−10 +10,1369 1685,−2 +3,117 39
+September 6 2014,Gabon> Angola>,1 0,African Nations Cup qualifier in Gabon,+14 −14,1493 1456,+3 −3,87 97
+September 6 2014,Ghana> Uganda>,1 1,African Nations Cup qualifier in Ghana,−15 +15,1687 1487,−2 +2,38 90
+September 6 2014,Ivory Coast> Sierra Leone>,2 1,African Nations Cup qualifier in Ivory Coast,+2 −2,1760 1365,0 0,27 119
+September 6 2014,Niger> Cape Verde>,1 3,African Nations Cup qualifier in Niger,−22 +22,1288 1527,−5 +5,135 77
+September 6 2014,Nigeria> Congo>,2 3,African Nations Cup qualifier in Nigeria,−37 +37,1694 1428,−6 +7,35 105
+September 6 2014,Palestine> Taiwan>,7 3,Friendly tournament in the Philippines,+4 −4,1295 837,+3 0,132 207
+September 6 2014,Philippines> Myanmar>,2 3,Friendly tournament in the Philippines,−25 +25,1213 1073,−7 +5,155 181
+September 6 2014,Singapore> Papua New Guinea>,2 1,Friendly in Singapore,+3 −3,1248 1060,0 −1,145 184
+September 6 2014,Trinidad and Tobago> Guadeloupe>,1 1,Friendly in Trinidad and Tobago,−6 +6,1492 1378,−3 +1,88 116
+September 6 2014,Tunisia> Botswana>,2 1,African Nations Cup qualifier in Tunisia,+6 −6,1535 1338,0 0,76 126
+September 6 2014,Vietnam> Hong Kong>,3 1,Friendly in Vietnam,+8 −8,1249 1150,+3 −3,143 170
+September 6 2014,Zambia> Mozambique>,0 0,African Nations Cup qualifier in Zambia,−11 +11,1485 1384,−5 +3,91 113
+September 7 2014,Antigua and Barbuda> St Vincent & Grenadines>,2 1,CONCACAF Champ & Carib Champ q in Antigua and Barbuda,+10 −10,1290 1170,+1 −5,135 166
+September 7 2014,Barbados> Bonaire>,4 1,CONCACAF Champ & Carib Champ q in Martinique,+27 −27,1157 1021,+5 −1,169 188
+September 7 2014,Burundi> Tanzania>,2 0,Friendly in Burundi,+12 −12,1323 1334,+1 −1,128 126
+September 7 2014,Costa Rica> Panama>,2 2,CONCACAF Champ q & C Am Cup in the United States,−8 +8,1839 1699,−4 +1,19 36
+September 7 2014,Curaçao> French Guiana>,0 0,CONCACAF Champ & Carib Champ q in Puerto Rico,+10 −10,1060 1242,+2 −3,184 145
+September 7 2014,Denmark> Armenia>,2 1,European Championship qualifier in Denmark,+7 −7,1748 1550,0 −1,28 71
+September 7 2014,Dominican Republic> Anguilla>,10 0,CONCACAF Champ & Carib Champ q in Antigua and Barbuda,+2 −2,1220 546,0 0,153 233
+September 7 2014,El Salvador> Honduras>,1 0,CONCACAF Champ q & C Am Cup in the United States,+26 −26,1525 1584,+4 −6,80 64
+September 7 2014,Faroe Islands> Finland>,1 3,European Championship qualifier in the Faroe Islands,−6 +6,1198 1677,−3 +3,159 41
+September 7 2014,Georgia> Ireland>,1 2,European Championship qualifier in Georgia,−15 +15,1492 1709,−4 +1,86 34
+September 7 2014,Germany> Scotland>,2 1,European Championship qualifier in Germany,+1 −1,2200 1710,0 0,1 33
+September 7 2014,Greece> Romania>,0 1,European Championship qualifier in Greece,−30 +30,1785 1746,−3 +3,23 29
+September 7 2014,Guatemala> Belize>,2 1,CONCACAF Champ q & C Am Cup in the United States,+4 −4,1512 1144,−1 −1,82 172
+September 7 2014,Hungary> Northern Ireland>,1 2,European Championship qualifier in Hungary,−36 +36,1638 1447,−7 +6,50 102
+September 7 2014,Kosovo> Oman>,1 0,Friendly in Kosovo,+13 −13,1377 1575,+3 −1,117 65
+September 7 2014,Mali> Malawi>,2 0,African Nations Cup qualifier in Mali,+7 −7,1573 1308,0 −1,66 129
+September 7 2014,Martinique> Suriname>,0 0,CONCACAF Champ & Carib Champ q in Martinique,−15 +15,1422 1233,−4 +4,107 149
+September 7 2014,Morocco> Libya>,3 0,Friendly in Morocco,+12 −12,1527 1482,+1 −5,78 91
+September 7 2014,Paraguay> United Arab Emirates>,0 0,Friendly in Austria,−2 +2,1706 1647,−1 +1,35 47
+September 7 2014,Poland> Gibraltar>,7 0,European Championship qualifier in Portugal,+5 −5,1652 1142,+1 −1,46 173
+September 7 2014,Portugal> Albania>,0 1,European Championship qualifier in Portugal,−38 +38,1881 1551,−3 +10,12 70
+September 7 2014,Puerto Rico> Grenada>,2 2,CONCACAF Champ & Carib Champ q in Puerto Rico,0 0,1057 1164,−1 −2,186 168
+September 7 2014,Serbia> France>,1 1,Friendly in Serbia,+3 −3,1770 1961,0 0,25 8
+September 7 2014,Saint Kitts and Nevis> Guyana>,2 0,CONCACAF Champ & Carib Champ q in Saint Kitts and Nevis,+30 −30,1183 1219,+8 −11,161 154
+September 7 2014,Saint Lucia> Dominica>,2 1,CONCACAF Champ & Carib Champ q in Saint Kitts and Nevis,+10 −10,1165 952,+1 0,167 193
+September 8 2014,Australia> Saudi Arabia>,3 2,Friendly in England,+5 −5,1668 1449,0 +1,45 100
+September 8 2014,Austria> Sweden>,1 1,European Championship qualifier in Austria,+1 −1,1677 1797,+2 0,41 21
+September 8 2014,Estonia> Slovenia>,1 0,European Championship qualifier in Estonia,+25 −25,1480 1618,+7 −6,92 55
+September 8 2014,Luxembourg> Belarus>,1 1,European Championship qualifier in Luxembourg,+13 −13,1235 1583,+4 −4,148 64
+September 8 2014,Montenegro> Moldova>,2 0,European Championship qualifier in Montenegro,+12 −12,1616 1443,+3 −3,56 102
+September 8 2014,Russia> Liechtenstein>,4 0,European Championship qualifier in Russia,+1 −1,1801 1171,0 −1,20 165
+September 8 2014,San Marino> Lithuania>,0 2,European Championship qualifier in San Marino,−3 +3,873 1474,0 0,203 93
+September 8 2014,South Korea> Uruguay>,0 1,Friendly in South Korea,−6 +6,1625 1899,0 0,53 10
+September 8 2014,Spain> Macedonia>,5 1,European Championship qualifier in Spain,+3 −3,1988 1501,0 0,6 83
+September 8 2014,Switzerland> England>,0 2,European Championship qualifier in Switzerland,−37 +37,1809 1899,−2 +4,18 10
+September 8 2014,Ukraine> Slovakia>,0 1,European Championship qualifier in Ukraine,−34 +34,1807 1669,−1 +7,19 44
+September 8 2014,Uzbekistan> New Zealand>,3 1,Friendly in Uzbekistan,+8 −8,1630 1535,+2 −2,52 76
+September 9 2014,Andorra> Wales>,1 2,European Championship qualifier in Andorra,−2 +2,983 1595,0 0,190 61
+September 9 2014,Azerbaijan> Bulgaria>,1 2,European Championship qualifier in Azerbaijan,−14 +14,1426 1658,−2 +2,105 47
+September 9 2014,Bosnia and Herzegovina> Cyprus>,1 2,European Championship qualifier in Bosnia and Herzegovina,−38 +38,1744 1422,−5 +6,29 107
+September 9 2014,Brazil> Ecuador>,1 0,Friendly in the United States,+6 −6,1997 1839,0 0,5 16
+September 9 2014,Canada> Jamaica>,3 1,Friendly in Canada,+12 −12,1503 1511,+5 −1,83 82
+September 9 2014,Chile> Haiti>,1 0,Friendly in the United States,+1 −1,1979 1431,0 +1,7 103
+September 9 2014,China> Jordan>,1 1,Friendly in China,−2 +2,1548 1590,−2 0,73 62
+September 9 2014,Croatia> Malta>,2 0,European Championship qualifier in Croatia,+1 −1,1797 1234,+1 0,21 148
+September 9 2014,Czechia> Netherlands>,2 1,European Championship qualifier in Czechia,+34 −34,1765 2097,+5 0,25 2
+September 9 2014,Iceland> Turkey>,3 0,European Championship qualifier in Iceland,+47 −47,1586 1718,+12 −5,63 31
+September 9 2014,Indonesia> Yemen>,0 0,Friendly in Indonesia,−5 +5,1231 1161,−3 +1,150 169
+September 9 2014,Japan> Venezuela>,2 2,Friendly in Japan,−4 +4,1717 1687,0 +2,32 38
+September 9 2014,Kazakhstan> Latvia>,0 0,European Championship qualifier in Kazakhstan,0 0,1368 1473,0 −1,119 95
+September 9 2014,Kuwait> Bahrain>,0 1,Friendly in Kuwait,−14 +14,1482 1482,−6 +5,90 90
+September 9 2014,Mexico> Bolivia>,1 0,Friendly in the United States,+3 −3,1888 1610,−1 +1,13 57
+September 9 2014,Norway> Italy>,0 2,European Championship qualifier in Norway,−17 +17,1598 1890,−2 +2,59 12
+September 9 2014,Qatar> Peru>,0 2,Friendly in Qatar,−12 +12,1529 1734,−3 +1,77 30
+September 9 2014,Singapore> Hong Kong>,0 0,Friendly in Singapore,−5 +5,1243 1155,−1 0,144 171
+September 10 2014,Algeria> Mali>,1 0,African Nations Cup qualifier in Algeria,+9 −9,1694 1564,+1 −1,39 68
+September 10 2014,Angola> Burkina Faso>,0 3,African Nations Cup qualifier in Angola,−36 +36,1420 1580,−11 +9,109 65
+September 10 2014,Botswana> Senegal>,0 2,African Nations Cup qualifier in Botswana,−16 +16,1322 1636,−4 +2,129 52
+September 10 2014,Cameroon> Ivory Coast>,4 1,African Nations Cup qualifier in Cameroon,+41 −41,1637 1719,+9 −4,51 30
+September 10 2014,Cape Verde> Zambia>,2 1,African Nations Cup qualifier in Cape Verde,+12 −12,1539 1473,+2 −5,76 94
+September 10 2014,Congo> Sudan>,2 0,African Nations Cup qualifier in Congo,+16 −16,1444 1336,+3 0,101 124
+September 10 2014,Democratic Republic of Congo> Sierra Leone>,2 0,African Nations Cup qualifier in the Dem Rep of the Congo,+17 −17,1439 1348,+4 −3,103 123
+September 10 2014,Egypt> Tunisia>,0 1,African Nations Cup qualifier in Egypt,−32 +32,1645 1567,−8 +8,49 67
+September 10 2014,El Salvador> Belize>,2 0,CONCACAF Champ q & C Am Cup in the United States,+6 −6,1531 1138,+2 −2,78 174
+September 10 2014,Guatemala> Honduras>,2 0,CONCACAF Champ q & C Am Cup in the United States,+36 −36,1548 1548,+8 −9,73 73
+September 10 2014,Lesotho> Gabon>,1 1,African Nations Cup qualifier in Lesotho,+7 −7,1268 1486,0 −3,139 88
+September 10 2014,Malawi> Ethiopia>,3 2,African Nations Cup qualifier in Malawi,+18 −18,1326 1351,+2 −4,127 122
+September 10 2014,Mozambique> Niger>,1 1,African Nations Cup qualifier in Mozambique,−10 +10,1374 1298,−3 +5,117 131
+September 10 2014,Namibia> Swaziland>,1 1,Friendly in Namibia,−6 +6,1286 1140,−2 +1,136 173
+September 10 2014,Panama> Nicaragua>,2 0,CONCACAF Champ q & C Am Cup in the United States,+2 −2,1701 1113,0 0,36 175
+September 10 2014,South Africa> Nigeria>,0 0,African Nations Cup qualifier in South Africa,−1 +1,1605 1695,−1 −1,59 38
+September 10 2014,Togo> Ghana>,2 3,African Nations Cup qualifier in Togo,−13 +13,1448 1700,−3 +1,99 37
+September 10 2014,Uganda> Guinea>,2 0,African Nations Cup qualifier in Uganda,+28 −28,1515 1530,+6 −9,82 79
+September 13 2014,Costa Rica> Guatemala>,2 1,Central American Cup in the United States,+6 −6,1845 1542,0 −2,16 75
+September 13 2014,Honduras> Nicaragua>,1 0,CONCACAF Champ q & C Am Cup in the United States,+3 −3,1551 1110,+2 0,71 175
+September 13 2014,Panama> El Salvador>,1 0,Central American Cup in the United States,+11 −11,1712 1520,+3 −3,33 81
+September 14 2014,Indonesia> Malaysia>,2 0,Friendly in Indonesia,+9 −9,1240 1170,+3 −3,147 165
+September 20 2014,Malaysia> Cambodia>,4 1,Friendly in Malaysia,+1 −1,1171 673,+1 0,164 223
+September 21 2014,British Virgin Islands> St Vincent & Grenadines>,0 6,Friendly in the British Virgin Islands,−3 +3,634 1173,0 +3,226 163
+September 25 2014,Indonesia> Cambodia>,1 0,Friendly in Indonesia,0 0,1240 673,0 0,147 223
+October 6 2014,India> Palestine>,2 3,Friendly in India,−7 +7,1068 1302,−1 +2,181 131
+October 6 2014,Qatar> Uzbekistan>,3 0,Friendly in Qatar,+18 −18,1547 1612,+4 −3,75 57
+October 8 2014,Antigua and Barbuda> Saint Lucia>,2 1,CONCACAF Champ & Carib Champ q in Trinidad and Tobago,+13 −13,1303 1152,+4 −4,131 171
+October 8 2014,Barbados> Saint Kitts and Nevis>,3 2,CONCACAF Champ & Carib Champ q in Haiti,+21 −21,1178 1162,+9 −7,161 168
+October 8 2014,Curaçao> Martinique>,1 1,CONCACAF Champ & Carib Champ q in Guadeloupe,+16 −16,1076 1406,+4 −4,180 111
+October 8 2014,Guadeloupe> St Vincent & Grenadines>,3 1,CONCACAF Champ & Carib Champ q in Guadeloupe,+9 −9,1387 1164,+1 −3,114 166
+October 8 2014,Haiti> French Guiana>,2 2,CONCACAF Champ & Carib Champ q in Haiti,−14 +14,1417 1256,−4 +3,108 142
+October 8 2014,Taiwan> Cambodia>,0 2,Friendly in Taiwan,−25 +25,812 698,−1 +7,208 216
+October 8 2014,Trinidad and Tobago> Dominican Republic>,6 1,CONCACAF Champ & Carib Champ q in Trinidad and Tobago,+8 −8,1500 1212,0 −2,86 155
+October 9 2014,Belarus> Ukraine>,0 2,European Championship qualifier in Belarus,−20 +20,1563 1827,−4 +1,68 18
+October 9 2014,England> San Marino>,5 0,European Championship qualifier in England,0 0,1899 873,0 0,10 203
+October 9 2014,Liechtenstein> Montenegro>,0 0,European Championship qualifier in Liechtenstein,+15 −15,1186 1601,+3 −3,161 59
+October 9 2014,Lithuania> Estonia>,1 0,European Championship qualifier in Lithuania,+15 −15,1489 1465,+5 −3,88 95
+October 9 2014,Macedonia> Luxembourg>,3 2,European Championship qualifier in Macedonia,+4 −4,1505 1231,+1 −2,84 150
+October 9 2014,Mexico> Honduras>,2 0,Friendly in Mexico,+2 −2,1890 1549,+1 −3,12 74
+October 9 2014,Moldova> Austria>,1 2,European Championship qualifier in Moldova,−13 +13,1430 1690,−1 0,103 41
+October 9 2014,Morocco> Central African Republic>,4 0,Friendly in Morocco,+4 −4,1531 1237,+1 −1,79 147
+October 9 2014,Qatar> Lebanon>,5 0,Friendly in Qatar,+8 −8,1555 1403,+4 −2,71 111
+October 9 2014,Slovakia> Spain>,2 1,European Championship qualifier in Slovakia,+31 −31,1700 1957,+6 −2,37 8
+October 9 2014,Slovenia> Switzerland>,1 0,European Championship qualifier in Slovenia,+25 −25,1643 1784,+5 −5,50 23
+October 9 2014,Sweden> Russia>,1 1,European Championship qualifier in Sweden,−5 +5,1792 1806,0 +1,21 19
+October 10 2014,Antigua and Barbuda> Dominican Republic>,0 0,CONCACAF Champ & Carib Champ q in Trinidad and Tobago,−5 +5,1298 1217,−1 +1,132 154
+October 10 2014,Bahrain> Uzbekistan>,0 0,Friendly in the United Arab Emirates,+4 −4,1486 1608,0 −3,90 59
+October 10 2014,Belgium> Andorra>,6 0,European Championship qualifier in Belgium,0 0,1915 983,0 0,9 190
+October 10 2014,Botswana> Egypt>,0 2,African Nations Cup qualifier in Botswana,−13 +13,1309 1658,0 +3,129 46
+October 10 2014,Bulgaria> Croatia>,0 1,European Championship qualifier in Bulgaria,−18 +18,1640 1815,−5 +1,51 19
+October 10 2014,Chile> Peru>,3 0,Friendly in Chile,+4 −4,1983 1730,0 0,6 29
+October 10 2014,China> Thailand>,3 0,Friendly in China,+4 −4,1552 1291,+4 0,71 135
+October 10 2014,Colombia> El Salvador>,3 0,Friendly in the United States,+2 −2,2009 1518,0 0,4 81
+October 10 2014,Cyprus> Israel>,1 2,European Championship qualifier in Cyprus,−14 +14,1408 1646,−4 +6,110 48
+October 10 2014,Guadeloupe> Martinique>,1 2,CONCACAF Champ & Carib Champ q in Guadeloupe,−25 +25,1362 1431,−5 +7,119 103
+October 10 2014,Haiti> Barbados>,4 2,CONCACAF Champ & Carib Champ q in Haiti,+7 −7,1424 1171,+1 −4,107 166
+October 10 2014,Hong Kong> Singapore>,2 1,Friendly in Hong Kong,+10 −10,1165 1233,+1 −1,169 146
+October 10 2014,Iraq> Yemen>,1 1,Friendly in Bahrain,−8 +8,1552 1169,−1 +1,71 168
+October 10 2014,Italy> Azerbaijan>,2 1,European Championship qualifier in Italy,+1 −1,1891 1425,+1 −1,11 105
+October 10 2014,Japan> Jamaica>,1 0,Friendly in Japan,+3 −3,1720 1508,+2 0,30 83
+October 10 2014,Jordan> Kuwait>,0 1,Friendly in Jordan,−15 +15,1575 1497,−3 +3,65 87
+October 10 2014,Latvia> Iceland>,0 3,European Championship qualifier in Latvia,−34 +34,1439 1620,−8 +7,101 56
+October 10 2014,Lesotho> Angola>,0 0,African Nations Cup qualifier in Lesotho,+3 −3,1271 1417,0 −1,139 108
+October 10 2014,Malta> Norway>,0 3,European Championship qualifier in Malta,−13 +13,1221 1611,−4 +3,152 57
+October 10 2014,Netherlands> Kazakhstan>,3 1,European Championship qualifier in the Netherlands,+1 −1,2098 1367,0 +1,2 117
+October 10 2014,Oman> Costa Rica>,3 4,Friendly in Oman,−5 +5,1570 1850,−1 +1,66 15
+October 10 2014,Saudi Arabia> Uruguay>,1 1,Friendly in Saudi Arabia,+8 −8,1457 1891,+2 −1,96 11
+October 10 2014,Senegal> Tunisia>,0 0,African Nations Cup qualifier in Senegal,−9 +9,1627 1576,−2 +2,55 64
+October 10 2014,South Korea> Paraguay>,2 0,Friendly in South Korea,+14 −14,1639 1692,+3 −4,52 40
+October 10 2014,Saint Kitts and Nevis> French Guiana>,2 1,CONCACAF Champ & Carib Champ q in Haiti,+25 −25,1187 1231,+7 −6,161 148
+October 10 2014,St Vincent & Grenadines> Curaçao>,1 0,CONCACAF Champ & Carib Champ q in Guadeloupe,+15 −15,1179 1061,+3 −4,163 184
+October 10 2014,Trinidad and Tobago> Saint Lucia>,2 0,CONCACAF Champ & Carib Champ q in Trinidad and Tobago,+4 −4,1504 1148,+1 0,85 171
+October 10 2014,Turkey> Czechia>,1 2,European Championship qualifier in Turkey,−23 +23,1695 1788,−6 +3,37 22
+October 10 2014,United Arab Emirates> Australia>,0 0,Friendly in the United Arab Emirates,−2 +2,1645 1670,−1 0,49 44
+October 10 2014,United States> Ecuador>,1 1,Friendly in the United States,−3 +3,1844 1842,−1 0,16 17
+October 10 2014,Wales> Bosnia and Herzegovina>,0 0,European Championship qualifier in Wales,+3 −3,1598 1741,−1 0,62 28
+October 11 2014,Albania> Denmark>,1 1,European Championship qualifier in Albania,+5 −5,1556 1743,+3 0,70 26
+October 11 2014,Armenia> Serbia>,1 1,European Championship qualifier in Armenia,+7 −7,1557 1763,+5 0,69 25
+October 11 2014,Brazil> Argentina>,2 0,Friendly tournament in China,+28 −28,2025 2060,+1 0,4 3
+October 11 2014,Cameroon> Sierra Leone>,0 0,African Nations Cup qualifier in Cameroon,−16 +16,1621 1364,−2 +4,56 119
+October 11 2014,Congo> South Africa>,0 2,African Nations Cup qualifier in Congo,−25 +25,1419 1630,−7 +6,107 54
+October 11 2014,Democratic Republic of Congo> Ivory Coast>,1 2,African Nations Cup qualifier in the Dem Rep of the Congo,−10 +10,1429 1729,−2 +1,103 30
+October 11 2014,Ethiopia> Mali>,0 2,African Nations Cup qualifier in Ethiopia,−21 +21,1330 1585,−4 +4,126 63
+October 11 2014,Finland> Greece>,1 1,European Championship qualifier in Finland,0 0,1677 1785,0 0,43 23
+October 11 2014,France> Portugal>,2 1,Friendly in France,+5 −5,1966 1876,0 0,7 14
+October 11 2014,Gabon> Burkina Faso>,2 0,African Nations Cup qualifier in Gabon,+29 −29,1515 1551,+9 −11,81 74
+October 11 2014,Ghana> Guinea>,1 1,African Nations Cup qualifier in Morocco,−9 +9,1691 1539,−5 +3,40 77
+October 11 2014,Ireland> Gibraltar>,7 0,European Championship qualifier in Ireland,+2 −2,1711 1140,0 0,34 172
+October 11 2014,Malawi> Algeria>,0 2,African Nations Cup qualifier in Malawi,−11 +11,1315 1705,−1 +3,128 36
+October 11 2014,Mozambique> Cape Verde>,2 0,African Nations Cup qualifier in Mozambique,+36 −36,1410 1503,+6 −8,110 85
+October 11 2014,Niger> Zambia>,0 0,African Nations Cup qualifier in Niger,+4 −4,1302 1469,+1 −1,131 94
+October 11 2014,Northern Ireland> Faroe Islands>,2 0,European Championship qualifier in Northern Ireland,+7 −7,1454 1191,0 −1,99 160
+October 11 2014,Poland> Germany>,2 0,European Championship qualifier in Poland,+56 −56,1708 2144,+12 0,35 1
+October 11 2014,Romania> Hungary>,1 1,European Championship qualifier in Romania,−11 +11,1735 1649,−1 +5,28 48
+October 11 2014,Scotland> Georgia>,1 0,European Championship qualifier in Scotland,+6 −6,1716 1486,+1 −1,32 89
+October 11 2014,Sudan> Nigeria>,1 0,African Nations Cup qualifier in Sudan,+33 −33,1369 1662,+7 −9,117 46
+October 11 2014,Uganda> Togo>,0 1,African Nations Cup qualifier in Uganda,−29 +29,1486 1477,−7 +5,89 93
+October 12 2014,Austria> Montenegro>,1 0,European Championship qualifier in Austria,+10 −10,1700 1591,+3 −1,38 62
+October 12 2014,Belarus> Slovakia>,1 3,European Championship qualifier in Belarus,−27 +27,1536 1727,−10 +6,77 31
+October 12 2014,Dominican Republic> Saint Lucia>,3 2,CONCACAF Champ & Carib Champ q in Trinidad and Tobago,+16 −16,1233 1132,+7 −3,147 174
+October 12 2014,East Timor> Brunei>,4 2,Southeast Asian Championship qual in Laos,+35 −35,652 635,+5 −1,225 226
+October 12 2014,Estonia> England>,0 1,European Championship qualifier in Estonia,−5 +5,1460 1904,0 0,95 10
+October 12 2014,French Guiana> Barbados>,2 0,CONCACAF Champ & Carib Champ q in Haiti,+25 −25,1256 1146,+6 −4,142 170
+October 12 2014,Guadeloupe> Curaçao>,0 1,CONCACAF Champ & Carib Champ q in Guadeloupe,−36 +36,1326 1097,−5 +6,126 178
+October 12 2014,Haiti> Saint Kitts and Nevis>,0 0,CONCACAF Champ & Carib Champ q in Haiti,−15 +15,1409 1202,−4 +3,110 158
+October 12 2014,Laos> Cambodia>,3 2,Southeast Asian Championship qual in Laos,+8 −8,860 690,0 −1,206 217
+October 12 2014,Lithuania> Slovenia>,0 2,European Championship qualifier in Lithuania,−25 +25,1464 1668,−6 +6,94 45
+October 12 2014,Luxembourg> Spain>,0 4,European Championship qualifier in Luxembourg,−2 +2,1229 1959,−2 0,150 8
+October 12 2014,Martinique> St Vincent & Grenadines>,4 3,CONCACAF Champ & Carib Champ q in Guadeloupe,+8 −8,1439 1171,0 −2,101 165
+October 12 2014,Mexico> Panama>,1 0,Friendly in Mexico,+3 −3,1893 1709,+2 −2,11 35
+October 12 2014,Pakistan> Palestine>,0 2,Friendly in Pakistan,−5 +5,934 1307,−1 0,196 131
+October 12 2014,Philippines> Papua New Guinea>,5 0,Friendly in the Philippines,+8 −8,1221 1052,+2 −1,153 186
+October 12 2014,Russia> Moldova>,1 1,European Championship qualifier in Russia,−18 +18,1788 1448,−1 +2,21 100
+October 12 2014,Sweden> Liechtenstein>,2 0,European Championship qualifier in Sweden,+1 −1,1793 1185,+1 0,20 162
+October 12 2014,Tanzania> Benin>,4 1,Friendly in Tanzania,+16 −16,1350 1380,+1 −2,123 115
+October 12 2014,Trinidad and Tobago> Antigua and Barbuda>,1 0,CONCACAF Champ & Carib Champ q in Trinidad and Tobago,+6 −6,1510 1292,+2 −1,82 134
+October 12 2014,Ukraine> Macedonia>,1 0,European Championship qualifier in Ukraine,+3 −3,1830 1502,0 −3,18 86
+October 13 2014,Andorra> Israel>,1 4,European Championship qualifier in Andorra,−3 +3,980 1649,−1 0,191 50
+October 13 2014,Bosnia and Herzegovina> Belgium>,1 1,European Championship qualifier in Bosnia and Herzegovina,+4 −4,1745 1911,+1 0,26 9
+October 13 2014,Croatia> Azerbaijan>,6 0,European Championship qualifier in Croatia,+5 −5,1820 1420,0 −1,19 105
+October 13 2014,Iceland> Netherlands>,2 0,European Championship qualifier in Iceland,+54 −54,1674 2044,+13 −1,44 3
+October 13 2014,Jordan> Kuwait>,1 1,Friendly in Jordan,−5 +5,1570 1502,0 +1,65 86
+October 13 2014,Kazakhstan> Czechia>,2 4,European Championship qualifier in Kazakhstan,−8 +8,1359 1796,−3 +1,121 20
+October 13 2014,Latvia> Turkey>,1 1,European Championship qualifier in Latvia,+8 −8,1447 1687,0 −2,101 41
+October 13 2014,Malta> Italy>,0 1,European Championship qualifier in Malta,−1 +1,1220 1892,−1 −1,154 13
+October 13 2014,Morocco> Kenya>,3 0,Friendly in Morocco,+7 −7,1538 1374,+2 −2,77 116
+October 13 2014,Norway> Bulgaria>,2 1,European Championship qualifier in Norway,+16 −16,1627 1624,+3 −5,55 57
+October 13 2014,Oman> Uruguay>,0 3,Friendly in Oman,−8 +8,1562 1899,−1 +1,67 11
+October 13 2014,Wales> Cyprus>,2 1,European Championship qualifier in Wales,+6 −6,1604 1402,0 −1,61 112
+October 14 2014,Armenia> France>,0 3,Friendly in Armenia,−5 +5,1552 1971,−5 0,73 7
+October 14 2014,Bahrain> Iraq>,0 0,Friendly in Bahrain,−1 +1,1485 1553,−3 −1,91 72
+October 14 2014,Brazil> Japan>,4 0,Friendly in Singapore,+6 −6,2031 1714,0 −2,4 34
+October 14 2014,Chile> Bolivia>,2 2,Friendly in Chile,−9 +9,1974 1619,0 0,6 59
+October 14 2014,China> Paraguay>,2 1,Friendly in China,+11 −11,1563 1681,+3 −3,68 42
+October 14 2014,Colombia> Canada>,1 0,Friendly in the United States,+1 −1,2010 1502,0 −2,5 86
+October 14 2014,Denmark> Portugal>,0 1,European Championship qualifier in Denmark,−18 +18,1725 1894,−5 +2,32 12
+October 14 2014,East Timor> Myanmar>,0 0,Southeast Asian Championship qual in Laos,+17 −17,669 1056,0 −4,225 185
+October 14 2014,Ecuador> El Salvador>,5 1,Friendly in the United States,+5 −5,1847 1513,+1 −1,16 81
+October 14 2014,Faroe Islands> Hungary>,0 1,European Championship qualifier in the Faroe Islands,−5 +5,1186 1654,0 +1,161 49
+October 14 2014,Finland> Romania>,0 2,European Championship qualifier in Finland,−34 +34,1643 1769,−8 +4,51 24
+October 14 2014,Georgia> Gibraltar>,3 0,European Championship qualifier in Portugal,+8 −8,1494 1132,−1 −2,89 173
+October 14 2014,Germany> Ireland>,1 1,European Championship qualifier in Germany,−18 +18,2126 1729,0 +5,1 29
+October 14 2014,Greece> Northern Ireland>,0 2,European Championship qualifier in Greece,−55 +55,1730 1509,−5 +16,28 83
+October 14 2014,Hong Kong> Argentina>,0 7,Friendly in Hong Kong,0 0,1165 2060,0 0,168 2
+October 14 2014,Laos> Brunei>,4 2,Southeast Asian Championship qual in Laos,+8 −8,868 627,+1 −4,205 230
+October 14 2014,Macao> Singapore>,2 2,Friendly in Macao,+9 −9,638 1224,+4 −4,226 151
+October 14 2014,Peru> Guatemala>,1 0,Friendly in Peru,+3 −3,1733 1539,+2 0,27 75
+October 14 2014,Poland> Scotland>,2 2,European Championship qualifier in Poland,−5 +5,1703 1721,−1 0,37 33
+October 14 2014,Qatar> Australia>,1 0,Friendly in Qatar,+10 −10,1565 1660,+3 −2,67 47
+October 14 2014,San Marino> Switzerland>,0 4,European Championship qualifier in San Marino,−1 +1,872 1785,0 +1,203 23
+October 14 2014,Saudi Arabia> Lebanon>,1 1,Friendly in Saudi Arabia,−4 +4,1453 1407,−2 0,99 111
+October 14 2014,Serbia> Albania>,0 0,European Championship qualifier in Serbia,−14 +14,1749 1570,0 +4,25 65
+October 14 2014,South Korea> Costa Rica>,1 3,Friendly in South Korea,−10 +10,1629 1860,−1 0,54 15
+October 14 2014,United Arab Emirates> Uzbekistan>,0 4,Friendly in the United Arab Emirates,−26 +26,1619 1634,−7 +8,59 52
+October 14 2014,United States> Honduras>,1 1,Friendly in the United States,−8 +8,1836 1557,−1 +3,17 71
+October 15 2014,Algeria> Malawi>,3 0,African Nations Cup qualifier in Algeria,+4 −4,1709 1311,+2 0,34 128
+October 15 2014,Angola> Lesotho>,4 0,African Nations Cup qualifier in Angola,+15 −15,1432 1256,+2 −2,105 141
+October 15 2014,Burkina Faso> Gabon>,1 1,African Nations Cup qualifier in Burkina Faso,−7 +7,1544 1522,0 0,74 80
+October 15 2014,Cameroon> Sierra Leone>,2 0,African Nations Cup qualifier in Cameroon,+7 −7,1628 1357,+4 −4,54 122
+October 15 2014,Cape Verde> Mozambique>,1 0,African Nations Cup qualifier in Cape Verde,+10 −10,1513 1400,+4 −3,81 112
+October 15 2014,Egypt> Botswana>,2 0,African Nations Cup qualifier in Egypt,+4 −4,1662 1305,+1 −2,47 131
+October 15 2014,Ghana> Guinea>,3 1,African Nations Cup qualifier in Ghana,+11 −11,1702 1528,+2 −4,37 79
+October 15 2014,Ivory Coast> Democratic Republic of Congo>,3 4,African Nations Cup qualifier in Ivory Coast,−36 +36,1693 1465,−10 +8,39 95
+October 15 2014,Mali> Ethiopia>,2 3,African Nations Cup qualifier in Mali,−35 +35,1550 1365,−10 +8,73 117
+October 15 2014,Nigeria> Sudan>,3 1,African Nations Cup qualifier in Nigeria,+6 −6,1668 1363,+2 −1,44 118
+October 15 2014,South Africa> Congo>,0 0,African Nations Cup qualifier in South Africa,−14 +14,1616 1433,−6 +2,59 104
+October 15 2014,Togo> Uganda>,1 0,African Nations Cup qualifier in Togo,+15 −15,1492 1471,+3 −4,90 94
+October 15 2014,Tunisia> Senegal>,1 0,African Nations Cup qualifier in Tunisia,+17 −17,1593 1610,+2 −5,62 60
+October 15 2014,Zambia> Niger>,3 0,African Nations Cup qualifier in Zambia,+12 −12,1481 1290,+1 −3,93 135
+October 16 2014,Cambodia> East Timor>,3 2,Southeast Asian Championship qual in Laos,+19 −19,709 650,+2 0,215 225
+October 16 2014,Myanmar> Brunei>,3 1,Southeast Asian Championship qual in Laos,+5 −5,1061 622,+1 0,184 230
+October 18 2014,Laos> East Timor>,2 0,Southeast Asian Championship qual in Laos,+8 −8,876 642,+2 0,203 225
+October 18 2014,Myanmar> Cambodia>,1 0,Southeast Asian Championship qual in Laos,+5 −5,1066 704,+1 0,183 215
+October 20 2014,Cambodia> Brunei>,1 0,Southeast Asian Championship qual in Laos,+15 −15,719 607,0 0,215 230
+October 20 2014,Laos> Myanmar>,1 2,Southeast Asian Championship qual in Laos,−15 +15,861 1081,−3 +3,206 180
+October 24 2014,Bangladesh> Sri Lanka>,1 1,Friendly in Bangladesh,−5 +5,940 841,0 0,194 207
+October 27 2014,Bangladesh> Sri Lanka>,1 0,Friendly in Bangladesh,+5 −5,945 836,0 0,194 207
+October 31 2014,Chagos Islands> Somaliland>,1 1,Friendly tournament in England,+8 −8,808 992,− −,210 190
+October 31 2014,Kuwait> North Korea>,1 0,Friendly in the United Arab Emirates,+12 −12,1514 1551,+5 −5,81 72
+October 31 2014,Philippines> Nepal>,3 0,Friendly in Qatar,+5 −5,1226 887,+2 −1,151 203
+November 2 2014,Bahrain> North Korea>,2 2,Friendly in Bahrain,−1 +1,1484 1552,0 +1,91 71
+November 4 2014,Kuwait> Yemen>,1 1,Friendly in the United Arab Emirates,−8 +8,1506 1177,−5 +4,86 163
+November 6 2014,Qatar> North Korea>,3 1,Friendly in Qatar,+10 −10,1575 1542,+2 −3,64 74
+November 6 2014,Saudi Arabia> Palestine>,2 0,Friendly in Saudi Arabia,+6 −6,1459 1301,+2 −1,98 131
+November 6 2014,United Arab Emirates> Lebanon>,3 2,Friendly in Saudi Arabia,+5 −5,1624 1402,+1 0,56 110
+November 7 2014,Bahrain> Singapore>,2 0,Friendly in Bahrain,+3 −3,1487 1221,0 −1,91 153
+November 7 2014,Oman> Yemen>,2 0,Friendly in Oman,+2 −2,1564 1175,+1 0,67 163
+November 9 2014,Thailand> Philippines>,3 0,Friendly in Thailand,+10 −10,1301 1216,+2 −4,132 155
+November 9 2014,Uganda> Ethiopia>,3 0,Friendly in Uganda,+8 −8,1479 1357,0 −4,94 121
+November 9 2014,Vietnam> Palestine>,1 3,Friendly in Vietnam,−17 +17,1232 1318,−5 +3,148 128
+November 11 2014,Cuba> French Guiana>,1 1,CONCACAF Champ q & Carib Champ in Jamaica,−8 +8,1403 1264,−1 +2,109 139
+November 11 2014,Indonesia> East Timor>,4 0,Friendly in Indonesia,+1 −1,1241 641,0 0,144 227
+November 11 2014,Trinidad and Tobago> Curaçao>,3 2,CONCACAF Champ q & Carib Champ in Jamaica,+3 −3,1513 1094,+2 −1,81 179
+November 12 2014,Antigua and Barbuda> Haiti>,2 2,CONCACAF Champ q & Carib Champ in Jamaica,+6 −6,1298 1403,+1 0,133 108
+November 12 2014,Argentina> Croatia>,2 1,Friendly in England,+4 −4,2064 1816,0 0,2 19
+November 12 2014,Belgium> Iceland>,3 1,Friendly in Belgium,+4 −4,1915 1670,0 0,9 43
+November 12 2014,Jamaica> Martinique>,1 1,CONCACAF Champ q & Carib Champ in Jamaica,−9 +9,1499 1448,−3 +2,88 101
+November 12 2014,Malaysia> Syria>,0 3,Friendly in Malaysia,−9 +9,1162 1468,−3 +2,169 96
+November 12 2014,Netherlands> Mexico>,2 3,Friendly in the Netherlands,−16 +16,2028 1909,−1 +3,4 10
+November 12 2014,Norway> Estonia>,0 1,Friendly in Norway,−16 +16,1611 1476,−4 +2,59 95
+November 12 2014,Turkey> Brazil>,0 4,Friendly in Turkey,−7 +7,1680 2038,−2 +1,42 3
+November 13 2014,Bahrain> Yemen>,0 0,Gulf Cup in Saudi Arabia,−14 +14,1473 1189,−4 +2,95 161
+November 13 2014,Cuba> Curaçao>,3 2,CONCACAF Champ q & Carib Champ in Jamaica,+6 −6,1409 1088,0 0,108 179
+November 13 2014,Morocco> Benin>,6 1,Friendly in Morocco,+7 −7,1545 1373,+2 −2,74 116
+November 13 2014,North Korea> Hong Kong>,2 1,East Asian Championship qualifier in Taiwan,+4 −4,1546 1161,+1 −2,73 169
+November 13 2014,Saudi Arabia> Qatar>,1 1,Gulf Cup in Saudi Arabia,+1 −1,1460 1574,0 0,99 64
+November 13 2014,Singapore> Laos>,2 0,Friendly in Singapore,+2 −2,1223 859,0 0,152 207
+November 13 2014,Taiwan> Guam>,1 2,East Asian Championship qualifier in Taiwan,−28 +28,784 791,−3 +3,212 210
+November 13 2014,Trinidad and Tobago> French Guiana>,4 2,CONCACAF Champ q & Carib Champ in Jamaica,+12 −12,1525 1252,+1 −3,80 142
+November 13 2014,Uruguay> Costa Rica>,3 3,Friendly tournament in Uruguay,−6 +6,1893 1866,−1 0,13 15
+November 14 2014,Botswana> Tunisia>,0 0,African Nations Cup qualifier in Botswana,+10 −10,1315 1583,+2 −1,129 63
+November 14 2014,Chile> Venezuela>,5 0,Friendly in Chile,+4 −4,1978 1683,0 −1,6 41
+November 14 2014,China> New Zealand>,1 1,Friendly in China,−4 +4,1559 1539,+1 +3,67 75
+November 14 2014,Colombia> United States>,2 1,Friendly in England,+5 −5,2015 1831,0 0,5 17
+November 14 2014,El Salvador> Panama>,1 3,Friendly in El Salvador,−11 +11,1502 1720,−3 +2,85 32
+November 14 2014,France> Albania>,1 1,Friendly in France,−9 +9,1962 1579,0 +1,7 64
+November 14 2014,Georgia> Poland>,0 4,European Championship qualifier in Georgia,−26 +26,1468 1729,−6 +8,95 28
+November 14 2014,Germany> Gibraltar>,4 0,European Championship qualifier in Germany,0 0,2126 1132,0 0,1 173
+November 14 2014,Greece> Faroe Islands>,0 1,European Championship qualifier in Greece,−39 +39,1691 1225,−11 +11,39 151
+November 14 2014,Haiti> Martinique>,3 0,CONCACAF Champ q & Carib Champ in Jamaica,+40 −40,1443 1408,+6 −8,103 109
+November 14 2014,Hungary> Finland>,1 0,European Championship qualifier in Hungary,+14 −14,1668 1629,+5 −2,44 53
+November 14 2014,Ivory Coast> Sierra Leone>,5 1,African Nations Cup qualifier in Ivory Coast,+6 −6,1699 1351,+1 −2,38 123
+November 14 2014,Jamaica> Antigua and Barbuda>,3 0,CONCACAF Champ q & Carib Champ in Jamaica,+11 −11,1510 1287,+4 −2,84 135
+November 14 2014,Japan> Honduras>,6 0,Friendly in Japan,+8 −8,1722 1549,+2 −1,31 70
+November 14 2014,Jordan> South Korea>,0 1,Friendly in Jordan,−11 +11,1559 1640,−2 +2,67 51
+November 14 2014,Kuwait> Iraq>,1 0,Gulf Cup in Saudi Arabia,+23 −23,1529 1530,+6 −8,79 78
+November 14 2014,Oman> United Arab Emirates>,0 0,Gulf Cup in Saudi Arabia,+3 −3,1567 1621,+1 −1,66 56
+November 14 2014,Paraguay> Peru>,2 1,Friendly in Paraguay,+9 −9,1690 1724,+1 −3,40 30
+November 14 2014,Philippines> Cambodia>,3 0,Friendly in the Philippines,+1 −1,1217 718,−1 0,156 217
+November 14 2014,Portugal> Armenia>,1 0,European Championship qualifier in Portugal,+3 −3,1897 1549,0 +1,12 70
+November 14 2014,Romania> Northern Ireland>,2 0,European Championship qualifier in Romania,+7 −7,1776 1502,0 −1,24 85
+November 14 2014,Scotland> Ireland>,1 0,European Championship qualifier in Scotland,+15 −15,1736 1714,+5 −4,27 33
+November 14 2014,Serbia> Denmark>,1 3,European Championship qualifier in Serbia,−40 +40,1709 1765,−9 +6,34 25
+November 15 2014,Algeria> Ethiopia>,3 1,African Nations Cup qualifier in Algeria,+4 −4,1713 1353,−1 −1,35 122
+November 15 2014,Angola> Gabon>,0 0,African Nations Cup qualifier in Angola,−1 +1,1431 1523,+2 +2,103 80
+November 15 2014,Austria> Russia>,1 0,European Championship qualifier in Austria,+19 −19,1719 1769,+4 −2,33 24
+November 15 2014,Cameroon> Democratic Republic of Congo>,1 0,African Nations Cup qualifier in Cameroon,+7 −7,1635 1458,+2 +1,52 96
+November 15 2014,Cape Verde> Niger>,3 1,African Nations Cup qualifier in Cape Verde,+8 −8,1521 1282,+2 −2,81 136
+November 15 2014,Congo> Nigeria>,0 2,African Nations Cup qualifier in Congo,−19 +19,1414 1687,−3 +4,107 40
+November 15 2014,Cuba> Trinidad and Tobago>,0 0,CONCACAF Champ q & Carib Champ in Jamaica,+6 −6,1415 1519,+2 −1,106 82
+November 15 2014,Egypt> Senegal>,0 1,African Nations Cup qualifier in Egypt,−28 +28,1634 1638,−5 +9,53 51
+November 15 2014,England> Slovenia>,3 1,European Championship qualifier in England,+8 −8,1912 1660,+1 −3,10 47
+November 15 2014,French Guiana> Curaçao>,4 1,CONCACAF Champ q & Carib Champ in Jamaica,+20 −20,1272 1068,+3 −2,139 181
+November 15 2014,Indonesia> Syria>,0 2,Friendly in Indonesia,−10 +10,1231 1478,−4 +3,148 92
+November 15 2014,Lesotho> Burkina Faso>,0 1,African Nations Cup qualifier in Lesotho,−10 +10,1246 1554,−2 +4,143 70
+November 15 2014,Luxembourg> Ukraine>,0 3,European Championship qualifier in Luxembourg,−4 +4,1225 1834,−1 +1,150 17
+November 15 2014,Macedonia> Slovakia>,0 2,European Championship qualifier in Macedonia,−20 +20,1482 1747,−5 +3,90 26
+November 15 2014,Malawi> Mali>,2 0,African Nations Cup qualifier in Malawi,+41 −41,1352 1509,+7 −15,123 84
+November 15 2014,Moldova> Liechtenstein>,0 1,European Championship qualifier in Moldova,−36 +36,1412 1221,−7 +9,108 154
+November 15 2014,Montenegro> Sweden>,1 1,European Championship qualifier in Montenegro,+6 −6,1597 1787,0 −1,62 22
+November 15 2014,Mozambique> Zambia>,0 1,African Nations Cup qualifier in Mozambique,−21 +21,1379 1502,−1 +5,113 86
+November 15 2014,San Marino> Estonia>,0 0,European Championship qualifier in San Marino,+18 −18,890 1458,+1 −3,203 96
+November 15 2014,South Africa> Sudan>,2 1,African Nations Cup qualifier in South Africa,+5 −5,1621 1358,+1 −3,57 120
+November 15 2014,Spain> Belarus>,3 0,European Championship qualifier in Spain,+3 −3,1962 1533,+1 0,7 77
+November 15 2014,Switzerland> Lithuania>,4 0,European Championship qualifier in Switzerland,+6 −6,1791 1458,+2 +2,21 96
+November 15 2014,Togo> Guinea>,1 4,African Nations Cup qualifier in Togo,−41 +41,1451 1569,−11 +14,100 66
+November 15 2014,Uganda> Ghana>,1 0,African Nations Cup qualifier in Uganda,+27 −27,1506 1675,+7 −7,85 43
+November 16 2014,Azerbaijan> Norway>,0 1,European Championship qualifier in Azerbaijan,−15 +15,1405 1626,−5 +4,110 56
+November 16 2014,Belgium> Wales>,0 0,European Championship qualifier in Belgium,−17 +17,1898 1621,−2 +4,11 57
+November 16 2014,Bulgaria> Malta>,1 1,European Championship qualifier in Bulgaria,−18 +18,1606 1238,−5 +10,61 145
+November 16 2014,Cyprus> Andorra>,5 0,European Championship qualifier in Cyprus,+4 −4,1406 976,+1 0,109 192
+November 16 2014,Czechia> Iceland>,2 1,European Championship qualifier in Czechia,+9 −9,1805 1661,0 −3,20 47
+November 16 2014,Israel> Bosnia and Herzegovina>,3 0,European Championship qualifier in Israel,+35 −35,1684 1710,+7 −8,42 35
+November 16 2014,Italy> Croatia>,1 1,European Championship qualifier in Italy,−9 +9,1883 1825,0 0,14 19
+November 16 2014,Jamaica> Haiti>,2 0,CONCACAF Champ q & Carib Champ in Jamaica,+17 −17,1527 1426,+3 −2,80 104
+November 16 2014,Martinique> Antigua and Barbuda>,2 0,CONCACAF Champ q & Carib Champ in Jamaica,+20 −20,1428 1267,+6 −5,103 139
+November 16 2014,Netherlands> Latvia>,6 0,European Championship qualifier in the Netherlands,+2 −2,2030 1445,0 0,4 101
+November 16 2014,North Korea> Guam>,5 1,East Asian Championship qualifier in Taiwan,+1 −1,1547 790,0 0,73 210
+November 16 2014,Qatar> Yemen>,0 0,Gulf Cup in Saudi Arabia,−16 +16,1558 1205,−4 +5,69 158
+November 16 2014,Saudi Arabia> Bahrain>,3 0,Gulf Cup in Saudi Arabia,+26 −26,1486 1447,+5 −7,90 100
+November 16 2014,Swaziland> Tanzania>,1 1,Friendly in Swaziland,+3 −3,1143 1347,0 0,171 125
+November 16 2014,Taiwan> Hong Kong>,0 1,East Asian Championship qualifier in Taiwan,−7 +7,777 1168,0 +2,212 167
+November 16 2014,Turkey> Kazakhstan>,3 1,European Championship qualifier in Turkey,+5 −5,1685 1354,+1 −2,41 121
+November 16 2014,Vietnam> Malaysia>,3 1,Friendly in Vietnam,+8 −8,1240 1154,+3 −1,144 169
+November 17 2014,Iraq> Oman>,1 1,Gulf Cup in Saudi Arabia,+2 −2,1532 1565,−1 0,79 66
+November 17 2014,Kuwait> United Arab Emirates>,2 2,Gulf Cup in Saudi Arabia,+5 −5,1534 1616,+2 −3,77 60
+November 17 2014,Singapore> Cambodia>,4 2,Friendly in Singapore,+1 −1,1224 717,+1 0,153 217
+November 18 2014,Austria> Brazil>,1 2,Friendly in Austria,−4 +4,1715 2042,−1 0,33 3
+November 18 2014,Belarus> Mexico>,3 2,Friendly in Belarus,+17 −17,1550 1892,+7 −3,71 13
+November 18 2014,Bolivia> Venezuela>,3 2,Friendly in Bolivia,+9 −9,1628 1674,+4 0,55 43
+November 18 2014,Chile> Uruguay>,1 2,Friendly in Chile,−15 +15,1963 1908,−1 +2,7 11
+November 18 2014,China> Honduras>,0 0,Friendly in China,−3 +3,1556 1552,−1 +1,68 70
+November 18 2014,Estonia> Jordan>,1 0,Friendly in Estonia,+10 −10,1468 1549,+1 −5,94 72
+November 18 2014,France> Sweden>,1 0,Friendly in France,+3 −3,1965 1784,+1 −1,6 23
+November 18 2014,Greece> Serbia>,0 2,Friendly in Greece,−18 +18,1673 1727,−6 +5,44 31
+November 18 2014,Haiti> Cuba>,2 1,Caribbean Championship in Jamaica,+19 −19,1445 1396,+3 −5,101 111
+November 18 2014,Hungary> Russia>,1 2,Friendly in Hungary,−10 +10,1658 1779,−2 0,47 24
+November 18 2014,Iran> South Korea>,1 0,Friendly in Iran,+7 −7,1672 1633,+1 −4,45 54
+November 18 2014,Ireland> United States>,4 1,Friendly in Ireland,+18 −18,1732 1813,+6 −1,27 19
+November 18 2014,Italy> Albania>,1 0,Friendly in Italy,+2 −2,1885 1577,0 0,14 64
+November 18 2014,Jamaica> Trinidad and Tobago>,0 0,Caribbean Championship in Jamaica,−6 +6,1521 1525,−1 +4,81 79
+November 18 2014,Japan> Australia>,2 1,Friendly in Japan,+6 −6,1728 1654,+1 −1,29 49
+November 18 2014,Nicaragua> El Salvador>,0 2,Friendly in Nicaragua,−5 +5,1105 1507,−1 0,176 86
+November 18 2014,Panama> Canada>,0 0,Friendly in Panama,−7 +7,1713 1509,−3 +2,34 84
+November 18 2014,Peru> Paraguay>,2 1,Friendly in Peru,+6 −6,1730 1684,+1 −1,28 40
+November 18 2014,Poland> Switzerland>,2 2,Friendly in Poland,−1 +1,1728 1792,−1 0,29 21
+November 18 2014,Portugal> Argentina>,1 0,Friendly in England,+14 −14,1911 2050,+2 0,10 2
+November 18 2014,Romania> Denmark>,2 0,Friendly in Romania,+10 −10,1786 1755,+1 0,22 25
+November 18 2014,Scotland> England>,1 3,Friendly in Scotland,−12 +12,1724 1924,−5 0,32 9
+November 18 2014,Slovakia> Finland>,2 1,Friendly in Slovakia,+4 −4,1751 1625,0 −2,26 57
+November 18 2014,Slovenia> Colombia>,0 1,Friendly in Slovenia,−4 +4,1656 2019,0 0,48 5
+November 18 2014,Spain> Germany>,0 1,Friendly in Spain,−8 +8,1954 2134,−1 0,8 1
+November 18 2014,Thailand> New Zealand>,2 0,Friendly in Thailand,+21 −21,1322 1518,+3 −8,129 83
+November 18 2014,Ukraine> Lithuania>,0 0,Friendly in Ukraine,−9 +9,1825 1467,0 −1,17 96
+November 19 2014,Bahrain> Qatar>,0 0,Gulf Cup in Saudi Arabia,+6 −6,1453 1552,+1 −1,99 68
+November 19 2014,Burkina Faso> Angola>,1 1,African Nations Cup qualifier in Burkina Faso,−11 +11,1543 1442,−6 0,75 103
+November 19 2014,Democratic Republic of Congo> Sierra Leone>,3 1,African Nations Cup qualifier in the Dem Rep of the Congo,+14 −14,1472 1337,+3 0,94 124
+November 19 2014,Ethiopia> Malawi>,0 0,African Nations Cup qualifier in Ethiopia,−6 +6,1347 1358,0 +4,122 119
+November 19 2014,Gabon> Lesotho>,4 2,African Nations Cup qualifier in Gabon,+6 −6,1529 1240,+1 0,79 143
+November 19 2014,Ghana> Togo>,3 1,African Nations Cup qualifier in Ghana,+8 −8,1683 1443,+2 −3,40 102
+November 19 2014,Guam> Hong Kong>,0 0,East Asian Championship qualifier in Taiwan,+16 −16,806 1152,0 −2,210 169
+November 19 2014,Guinea> Uganda>,2 0,African Nations Cup qualifier in Morocco,+25 −25,1594 1481,+1 −5,64 92
+November 19 2014,Ivory Coast> Cameroon>,0 0,African Nations Cup qualifier in Ivory Coast,−9 +9,1690 1644,+1 +1,36 50
+November 19 2014,Mali> Algeria>,2 0,African Nations Cup qualifier in Mali,+39 −39,1548 1674,+11 −8,73 42
+November 19 2014,Niger> Mozambique>,1 1,African Nations Cup qualifier in Niger,0 0,1282 1379,0 0,135 113
+November 19 2014,Nigeria> South Africa>,2 2,African Nations Cup qualifier in Nigeria,−9 +9,1678 1630,−3 +4,41 54
+November 19 2014,Saudi Arabia> Yemen>,1 0,Gulf Cup in Saudi Arabia,+4 −4,1490 1201,+1 −3,89 161
+November 19 2014,Senegal> Botswana>,3 0,African Nations Cup qualifier in Senegal,+6 −6,1644 1309,0 0,50 131
+November 19 2014,Sudan> Congo>,0 1,African Nations Cup qualifier in Sudan,−23 +23,1335 1437,−6 +2,125 104
+November 19 2014,Taiwan> North Korea>,0 0,East Asian Championship qualifier in Taiwan,+19 −19,796 1528,+1 −6,211 80
+November 19 2014,Tunisia> Egypt>,2 1,African Nations Cup qualifier in Tunisia,+17 −17,1600 1617,+1 −7,62 59
+November 19 2014,Zambia> Cape Verde>,1 0,African Nations Cup qualifier in Zambia,+15 −15,1517 1506,+4 −6,84 87
+November 20 2014,Oman> Kuwait>,5 0,Gulf Cup in Saudi Arabia,+36 −36,1601 1498,+4 −11,62 88
+November 20 2014,United Arab Emirates> Iraq>,2 0,Gulf Cup in Saudi Arabia,+23 −23,1639 1509,+8 −5,52 83
+November 22 2014,Philippines> Laos>,4 1,Southeast Asian Championship in Vietnam,+8 −8,1225 851,+6 0,151 207
+November 22 2014,Vietnam> Indonesia>,2 2,Southeast Asian Championship in Vietnam,−6 +6,1234 1237,−4 +4,147 145
+November 23 2014,Malaysia> Myanmar>,0 0,Southeast Asian Championship in Singapore,−4 +4,1150 1085,−1 0,169 179
+November 23 2014,Qatar> Oman>,3 1,Gulf Cup in Saudi Arabia,+34 −34,1586 1567,+3 −5,65 67
+November 23 2014,Saudi Arabia> United Arab Emirates>,3 2,Gulf Cup in Saudi Arabia,+23 −23,1513 1616,+6 −8,83 60
+November 23 2014,Singapore> Thailand>,1 2,Southeast Asian Championship in Singapore,−20 +20,1204 1342,−3 +5,157 124
+November 25 2014,Philippines> Indonesia>,4 0,Southeast Asian Championship in Vietnam,+39 −39,1264 1198,+11 −17,140 162
+November 25 2014,United Arab Emirates> Oman>,1 0,Gulf Cup in Saudi Arabia,+17 −17,1633 1550,+7 −2,53 69
+November 25 2014,Vietnam> Laos>,3 0,Southeast Asian Championship in Vietnam,+4 −4,1238 847,+2 0,145 207
+November 26 2014,Saudi Arabia> Qatar>,1 2,Gulf Cup in Saudi Arabia,−22 +22,1491 1608,−6 +4,89 61
+November 26 2014,Singapore> Myanmar>,4 2,Southeast Asian Championship in Singapore,+13 −13,1217 1072,0 −1,156 180
+November 26 2014,Thailand> Malaysia>,3 2,Southeast Asian Championship in Singapore,+10 −10,1352 1140,+2 −2,122 171
+November 28 2014,Indonesia> Laos>,5 1,Southeast Asian Championship in Vietnam,+9 −9,1207 838,+5 0,157 207
+November 28 2014,Vietnam> Philippines>,3 1,Southeast Asian Championship in Vietnam,+24 −24,1262 1240,+5 −4,140 144
+November 29 2014,Singapore> Malaysia>,1 3,Southeast Asian Championship in Singapore,−44 +44,1173 1184,−9 +8,165 163
+November 29 2014,Thailand> Myanmar>,2 0,Southeast Asian Championship in Singapore,+10 −10,1362 1062,+4 −4,118 184
+December 6 2014,Philippines> Thailand>,0 0,Southeast Asian Championship in the Philippines,+1 −1,1241 1361,0 0,144 118
+December 7 2014,Malaysia> Vietnam>,1 2,Southeast Asian Championship in Malaysia,−21 +21,1163 1283,−5 +5,168 135
+December 10 2014,Thailand> Philippines>,3 0,Southeast Asian Championship in Thailand,+15 −15,1376 1226,+3 −6,115 150
+December 11 2014,Vietnam> Malaysia>,2 4,Southeast Asian Championship in Vietnam,−47 +47,1236 1210,−11 +12,146 156
+December 13 2014,China> Kyrgyzstan>,4 0,Friendly in China,+1 −1,1557 1099,0 0,67 177
+December 13 2014,Uzbekistan> Palestine>,1 0,Friendly in the United Arab Emirates,+3 −3,1637 1315,0 0,52 130
+December 17 2014,China> Kyrgyzstan>,2 0,Friendly in China,+1 −1,1558 1098,0 0,67 177
+December 17 2014,Thailand> Malaysia>,2 0,Southeast Asian Championship in Thailand,+11 −11,1387 1199,+2 −5,113 161
+December 20 2014,Malaysia> Thailand>,3 2,Southeast Asian Championship in Malaysia,+25 −25,1224 1362,+8 −5,153 118
+December 21 2014,China> Palestine>,0 0,Friendly in China,−8 +8,1550 1323,−1 +1,68 129
+December 21 2014,Uzbekistan> Jordan>,2 1,Friendly in the United Arab Emirates,+8 −8,1645 1541,+2 −4,50 75
+December 22 2014,Iraq> Kuwait>,1 1,Friendly in the United Arab Emirates,0 0,1509 1498,0 0,83 88
+December 25 2014,Uzbekistan> Iraq>,1 0,Friendly in the United Arab Emirates,+6 −6,1651 1503,0 −3,50 86
+December 27 2014,Qatar> Estonia>,3 0,Friendly in Qatar,+7 −7,1615 1461,0 −2,61 97
+December 28 2014,Iraq> Uzbekistan>,0 0,Friendly in the United Arab Emirates,+4 −4,1507 1647,+2 0,84 50
+December 30 2014,Bahrain> Saudi Arabia>,4 1,Friendly in Australia,+19 −19,1472 1472,+6 −4,93 93
+December 30 2014,United Arab Emirates> Jordan>,1 0,Friendly in Australia,+7 −7,1640 1534,0 −1,53 76
+December 31 2014,Oman> Qatar>,2 2,Friendly in Australia,+2 −2,1552 1613,+1 0,67 61
