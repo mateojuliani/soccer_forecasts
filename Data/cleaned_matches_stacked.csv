@@ -1,4 +1,4 @@
-game_id,date,location,team,opp,score,opp_score,old_elo,opp_elo,elo_diff,result_class
+game_id,date,location,team,opp,score,opp_score,elo,opp_elo,elo_diff,result_class
 2016-01-03IndiaAfghanistan,2016-01-03,South Asian Championship in India,India,Afghanistan,2,1,1063,1143,-80,T1
 2016-01-03IndiaAfghanistan,2016-01-03,South Asian Championship in India,Afghanistan,India,1,2,1143,1063,80,T2
 2016-01-06EstoniaSweden,2016-01-06,Friendly in the United Arab Emirates,Estonia,Sweden,1,1,1494,1767,-273,D
